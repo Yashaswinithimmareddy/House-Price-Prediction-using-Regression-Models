@@ -1,0 +1,1501 @@
+Area_sqft,Bedrooms,Bathrooms,Age_Years,Location,Furnishing,Parking,Price
+1360,2,1,12,Downtown,Fully-Furnished,Yes,514264.0
+4272,3,3,31,Downtown,Unfurnished,Yes,1227510.0
+3592,3,1,35,Suburbs,Fully-Furnished,Yes,879545.0
+966,2,3,36,Suburbs,Unfurnished,Yes,347658.0
+4926,5,2,25,Downtown,Fully-Furnished,No,1543308.0
+3944,4,3,21,Rural,Fully-Furnished,No,735121.0
+3671,3,3,3,Suburbs,Semi-Furnished,No,953175.0
+3419,5,1,30,Suburbs,Fully-Furnished,Yes,946634.0
+630,2,2,17,City Center,Semi-Furnished,No,425733.0
+2185,5,2,37,Rural,Unfurnished,Yes,457648.0
+1269,1,2,23,Rural,Fully-Furnished,No,239775.0
+2891,3,2,22,Downtown,Fully-Furnished,Yes,988954.0
+2933,2,3,21,Rural,Unfurnished,No,482642.0
+1684,4,2,1,Downtown,Unfurnished,Yes,735808.0
+3885,2,3,30,City Center,Fully-Furnished,No,1319587.0
+4617,4,3,10,Rural,Unfurnished,Yes,769415.0
+3404,2,3,27,Suburbs,Semi-Furnished,No,783497.0
+974,5,2,45,City Center,Unfurnished,Yes,691228.0
+1582,5,1,31,Downtown,Unfurnished,No,683334.0
+3058,5,1,4,City Center,Fully-Furnished,No,1337467.0
+2547,1,2,37,Downtown,Semi-Furnished,No,639411.0
+3247,4,1,9,City Center,Unfurnished,Yes,1284125.0
+1475,5,1,39,Downtown,Semi-Furnished,Yes,665482.0
+2306,1,3,45,Rural,Semi-Furnished,Yes,338826.0
+689,4,3,23,Suburbs,Semi-Furnished,Yes,458444.0
+3234,2,2,34,Downtown,Fully-Furnished,Yes,963014.0
+3505,1,2,43,City Center,Unfurnished,No,998778.0
+2399,3,1,47,Downtown,Fully-Furnished,Yes,759794.0
+1767,1,3,22,Downtown,Unfurnished,No,530023.0
+2028,1,2,16,Downtown,Unfurnished,No,573133.0
+3702,4,2,0,City Center,Fully-Furnished,Yes,1531969.0
+4056,2,2,30,Suburbs,Semi-Furnished,No,872454.0
+4390,3,2,30,Rural,Semi-Furnished,Yes,690610.0
+1146,5,2,41,Suburbs,Unfurnished,Yes,476501.0
+3388,5,2,41,Downtown,Fully-Furnished,Yes,1182247.0
+2935,1,1,33,City Center,Semi-Furnished,No,805092.0
+1100,4,3,8,Suburbs,Semi-Furnished,Yes,535085.0
+2863,4,3,21,Downtown,Unfurnished,Yes,1073888.0
+2561,5,2,12,Rural,Unfurnished,Yes,540918.0
+741,3,3,24,Rural,Fully-Furnished,No,307110.0
+2541,2,3,47,Rural,Unfurnished,Yes,430686.0
+3324,3,3,17,Downtown,Semi-Furnished,No,1030611.0
+3112,2,2,11,City Center,Semi-Furnished,No,1131165.0
+1863,5,2,39,Suburbs,Semi-Furnished,Yes,661719.0
+1978,2,3,16,Rural,Semi-Furnished,No,416568.0
+3056,4,3,14,Downtown,Fully-Furnished,No,1106970.0
+1275,1,2,41,Downtown,Fully-Furnished,Yes,422900.0
+4514,1,1,14,Suburbs,Unfurnished,Yes,875132.0
+534,5,3,14,Rural,Unfurnished,Yes,349776.0
+3652,4,1,38,Downtown,Unfurnished,No,1051980.0
+2455,3,3,12,Suburbs,Fully-Furnished,Yes,781515.0
+2085,4,1,16,City Center,Semi-Furnished,No,940327.0
+4443,1,1,31,City Center,Unfurnished,No,1195222.0
+3573,1,1,8,City Center,Semi-Furnished,No,1037499.0
+1521,4,2,39,Rural,Unfurnished,No,332318.0
+3961,4,1,19,Suburbs,Unfurnished,No,938105.0
+3113,1,1,25,Suburbs,Unfurnished,Yes,619304.0
+4343,3,1,26,Downtown,Unfurnished,Yes,1179132.0
+2000,5,3,20,Downtown,Unfurnished,No,940362.0
+661,5,1,17,Downtown,Semi-Furnished,No,542336.0
+4797,4,3,12,Suburbs,Unfurnished,Yes,1188721.0
+2481,5,1,15,Downtown,Semi-Furnished,Yes,974972.0
+1495,1,1,8,Suburbs,Fully-Furnished,No,387327.0
+3842,1,2,11,Suburbs,Unfurnished,No,799019.0
+4298,4,3,43,City Center,Semi-Furnished,Yes,1538310.0
+1775,4,1,37,Downtown,Fully-Furnished,Yes,698203.0
+1516,4,3,18,City Center,Fully-Furnished,No,906963.0
+837,3,3,6,Rural,Fully-Furnished,Yes,325385.0
+1378,5,2,34,Rural,Semi-Furnished,Yes,433475.0
+1576,4,2,47,Rural,Unfurnished,No,300245.0
+4493,2,2,17,Suburbs,Unfurnished,No,960079.0
+879,2,2,15,Suburbs,Semi-Furnished,No,318164.0
+992,1,2,38,Suburbs,Unfurnished,Yes,240301.0
+2562,5,2,3,Downtown,Semi-Furnished,No,1026962.0
+4384,4,2,24,City Center,Unfurnished,Yes,1597087.0
+564,2,2,31,Suburbs,Fully-Furnished,No,309843.0
+3068,5,1,39,City Center,Unfurnished,No,1175169.0
+2527,1,3,12,City Center,Semi-Furnished,Yes,950429.0
+3195,3,2,44,City Center,Semi-Furnished,Yes,1109612.0
+1995,5,2,16,Downtown,Fully-Furnished,No,945991.0
+891,5,3,48,Downtown,Semi-Furnished,No,630245.0
+4974,3,1,36,Rural,Unfurnished,Yes,693606.0
+4061,5,3,5,Rural,Unfurnished,No,720915.0
+2778,1,3,18,City Center,Fully-Furnished,Yes,1021222.0
+3599,1,2,12,Rural,Semi-Furnished,Yes,540168.0
+700,3,3,25,City Center,Fully-Furnished,No,591036.0
+3604,4,3,13,Downtown,Unfurnished,Yes,1215103.0
+2954,2,2,30,Downtown,Fully-Furnished,Yes,861960.0
+4145,4,2,3,Downtown,Semi-Furnished,Yes,1371832.0
+1304,5,2,38,Suburbs,Fully-Furnished,No,571916.0
+3231,2,2,7,City Center,Semi-Furnished,Yes,1141299.0
+3273,3,3,24,Downtown,Semi-Furnished,No,1058163.0
+2070,3,3,12,City Center,Unfurnished,No,957423.0
+3190,2,1,31,Rural,Unfurnished,No,430694.0
+4340,1,1,37,Rural,Unfurnished,Yes,572996.0
+1528,2,3,37,Downtown,Semi-Furnished,Yes,540437.0
+1002,5,1,27,City Center,Fully-Furnished,No,723960.0
+4993,1,3,29,Downtown,Semi-Furnished,No,1281798.0
+1370,3,1,2,Rural,Unfurnished,Yes,321735.0
+4988,2,2,27,Downtown,Unfurnished,No,1253612.0
+706,4,1,2,City Center,Fully-Furnished,No,651096.0
+1984,4,2,44,Rural,Unfurnished,Yes,382392.0
+1363,5,2,33,Suburbs,Unfurnished,No,555280.0
+3290,4,2,15,Rural,Unfurnished,Yes,596824.0
+1063,2,2,21,Suburbs,Fully-Furnished,Yes,399830.0
+4691,2,1,31,Downtown,Semi-Furnished,No,1156510.0
+2257,4,3,37,Downtown,Unfurnished,Yes,842224.0
+2178,2,2,7,City Center,Fully-Furnished,Yes,935262.0
+3742,5,1,7,Suburbs,Unfurnished,Yes,992229.0
+1559,1,2,5,Downtown,Fully-Furnished,No,550124.0
+2222,5,1,13,Suburbs,Unfurnished,No,686031.0
+3814,5,1,31,Downtown,Fully-Furnished,No,1211473.0
+3657,2,1,34,Rural,Unfurnished,Yes,501743.0
+3125,1,3,9,Downtown,Semi-Furnished,Yes,924601.0
+3229,2,1,2,City Center,Unfurnished,No,1138507.0
+2097,3,1,11,Rural,Fully-Furnished,No,418931.0
+3560,2,3,48,City Center,Unfurnished,Yes,1144397.0
+3193,2,3,30,Rural,Semi-Furnished,No,482159.0
+4127,2,1,28,Suburbs,Unfurnished,No,843905.0
+1863,1,3,4,City Center,Fully-Furnished,No,798572.0
+2481,2,2,24,Downtown,Fully-Furnished,No,805993.0
+2163,1,2,40,Suburbs,Semi-Furnished,No,467572.0
+2029,4,3,30,Downtown,Fully-Furnished,Yes,873553.0
+2538,3,3,20,Rural,Unfurnished,No,455159.0
+3802,1,1,19,Rural,Unfurnished,No,493933.0
+2737,4,3,38,Downtown,Unfurnished,Yes,949605.0
+1806,1,1,21,Downtown,Fully-Furnished,Yes,547418.0
+4529,1,2,3,Suburbs,Unfurnished,Yes,971545.0
+3175,3,3,12,Downtown,Unfurnished,Yes,1047447.0
+1782,5,1,44,City Center,Unfurnished,No,797500.0
+1209,5,1,41,City Center,Semi-Furnished,No,729498.0
+4913,1,2,49,Downtown,Fully-Furnished,No,1185062.0
+4248,2,3,48,City Center,Fully-Furnished,No,1359770.0
+1163,4,2,19,Downtown,Fully-Furnished,Yes,670532.0
+2498,2,1,12,Suburbs,Semi-Furnished,Yes,613337.0
+3945,2,1,16,City Center,Fully-Furnished,No,1317922.0
+4243,1,3,35,City Center,Semi-Furnished,No,1253014.0
+1995,1,1,32,Downtown,Semi-Furnished,No,484931.0
+3804,1,3,0,City Center,Fully-Furnished,No,1361061.0
+4263,1,2,14,Rural,Unfurnished,Yes,603424.0
+2353,5,3,12,Suburbs,Unfurnished,No,838192.0
+1791,1,3,16,Suburbs,Fully-Furnished,Yes,492544.0
+4081,5,1,23,City Center,Fully-Furnished,Yes,1609514.0
+3957,5,1,7,City Center,Semi-Furnished,Yes,1602434.0
+2136,1,3,49,Rural,Fully-Furnished,Yes,321285.0
+4196,3,1,26,Rural,Semi-Furnished,No,620010.0
+3499,4,1,44,City Center,Fully-Furnished,No,1248199.0
+3652,2,1,22,City Center,Unfurnished,No,1108449.0
+1198,5,3,45,Rural,Unfurnished,No,338268.0
+2660,4,1,7,Downtown,Fully-Furnished,Yes,1004964.0
+4597,3,3,7,Rural,Semi-Furnished,Yes,759622.0
+1354,2,1,25,Downtown,Unfurnished,Yes,444493.0
+3974,2,2,46,Suburbs,Semi-Furnished,No,821907.0
+2207,5,1,12,Suburbs,Fully-Furnished,Yes,769217.0
+3277,1,1,38,Rural,Fully-Furnished,Yes,447336.0
+2233,3,3,36,Downtown,Unfurnished,Yes,782601.0
+4010,5,3,48,Rural,Fully-Furnished,Yes,709659.0
+702,3,1,27,Rural,Unfurnished,No,185212.0
+3755,1,2,24,Downtown,Semi-Furnished,Yes,1000585.0
+4718,1,1,15,Rural,Unfurnished,Yes,612213.0
+4996,5,1,1,Suburbs,Unfurnished,No,1218334.0
+1266,1,2,17,City Center,Semi-Furnished,No,513130.0
+4889,4,3,16,City Center,Unfurnished,No,1787699.0
+2827,2,1,29,Rural,Unfurnished,Yes,426749.0
+3431,5,3,38,Downtown,Fully-Furnished,Yes,1233745.0
+697,3,3,12,Downtown,Semi-Furnished,Yes,468059.0
+2430,4,2,31,Suburbs,Unfurnished,Yes,713598.0
+4082,5,2,49,Downtown,Semi-Furnished,No,1297851.0
+1108,1,3,28,Downtown,Semi-Furnished,Yes,435981.0
+3772,1,1,45,Suburbs,Unfurnished,Yes,611183.0
+1647,1,3,29,Rural,Fully-Furnished,No,322262.0
+4782,1,1,17,City Center,Semi-Furnished,No,1384605.0
+3897,3,1,12,Suburbs,Unfurnished,No,866975.0
+3011,4,2,42,Rural,Semi-Furnished,Yes,539575.0
+2294,2,1,20,Suburbs,Fully-Furnished,Yes,582941.0
+1159,3,1,29,Rural,Fully-Furnished,Yes,311853.0
+3311,3,3,20,Suburbs,Fully-Furnished,Yes,902112.0
+1869,2,2,47,Rural,Unfurnished,Yes,269664.0
+2486,2,1,16,Suburbs,Unfurnished,No,553548.0
+646,1,1,39,Rural,Fully-Furnished,No,114361.0
+3719,3,2,18,Suburbs,Unfurnished,Yes,858890.0
+3411,5,3,14,City Center,Fully-Furnished,Yes,1520137.0
+2234,2,2,8,City Center,Unfurnished,Yes,873159.0
+2343,2,2,9,Downtown,Fully-Furnished,Yes,833650.0
+988,4,1,43,Rural,Semi-Furnished,Yes,258049.0
+3476,5,1,30,Suburbs,Fully-Furnished,No,924531.0
+2459,5,3,22,Rural,Fully-Furnished,No,558254.0
+2885,2,1,29,City Center,Unfurnished,No,909161.0
+3419,1,1,32,Rural,Unfurnished,Yes,461665.0
+2302,4,2,8,Suburbs,Unfurnished,Yes,762214.0
+4561,5,1,46,Rural,Unfurnished,No,703428.0
+3869,2,3,0,Suburbs,Unfurnished,No,927220.0
+762,5,2,43,City Center,Unfurnished,Yes,613071.0
+1123,4,3,34,City Center,Semi-Furnished,No,715279.0
+1516,4,2,10,City Center,Fully-Furnished,No,903904.0
+4143,3,1,33,Downtown,Fully-Furnished,Yes,1161877.0
+2549,2,2,15,City Center,Fully-Furnished,No,968984.0
+4223,4,2,8,Rural,Semi-Furnished,No,721453.0
+3608,3,1,31,Downtown,Fully-Furnished,No,1026983.0
+4590,3,1,14,City Center,Semi-Furnished,Yes,1546400.0
+2556,5,3,11,Rural,Semi-Furnished,No,540732.0
+3670,5,3,32,Rural,Semi-Furnished,No,692177.0
+2182,3,1,44,Rural,Fully-Furnished,No,432475.0
+2755,5,1,13,Suburbs,Semi-Furnished,Yes,824659.0
+1654,4,1,7,Downtown,Fully-Furnished,Yes,768627.0
+4999,1,2,7,Rural,Fully-Furnished,No,743712.0
+3691,4,2,26,Suburbs,Unfurnished,Yes,954584.0
+2196,3,2,11,City Center,Unfurnished,No,926034.0
+4491,3,1,0,Rural,Semi-Furnished,Yes,681854.0
+2148,4,3,42,Suburbs,Semi-Furnished,Yes,674185.0
+1945,5,1,39,Rural,Fully-Furnished,No,447573.0
+4699,5,2,41,Downtown,Semi-Furnished,No,1412362.0
+4423,3,2,10,Downtown,Semi-Furnished,No,1297505.0
+753,2,1,38,City Center,Fully-Furnished,Yes,368384.0
+3683,5,1,42,Rural,Semi-Furnished,No,625995.0
+3057,4,2,30,Suburbs,Semi-Furnished,Yes,831656.0
+598,5,2,16,City Center,Fully-Furnished,Yes,722506.0
+2700,4,2,32,Rural,Fully-Furnished,No,538486.0
+3461,3,1,31,City Center,Unfurnished,Yes,1156169.0
+4933,5,2,28,Suburbs,Fully-Furnished,No,1255581.0
+4277,4,2,20,City Center,Unfurnished,Yes,1553241.0
+3369,3,3,20,City Center,Semi-Furnished,No,1291091.0
+3734,2,1,39,City Center,Fully-Furnished,Yes,1134305.0
+4291,4,3,22,Rural,Fully-Furnished,Yes,769322.0
+1456,2,3,5,Suburbs,Fully-Furnished,No,539430.0
+4567,2,2,21,Downtown,Semi-Furnished,Yes,1218900.0
+660,1,1,49,Rural,Unfurnished,No,58398.0
+4993,5,2,37,Downtown,Semi-Furnished,Yes,1464324.0
+1800,4,1,36,Downtown,Semi-Furnished,Yes,649639.0
+4487,2,3,44,Rural,Fully-Furnished,Yes,662911.0
+2027,1,1,7,Rural,Unfurnished,No,298075.0
+1718,3,2,40,Suburbs,Semi-Furnished,No,491908.0
+4996,4,2,48,Suburbs,Fully-Furnished,No,1144959.0
+3604,2,2,34,City Center,Semi-Furnished,No,1151028.0
+3235,5,1,10,Downtown,Semi-Furnished,No,1130293.0
+1454,1,3,23,Suburbs,Fully-Furnished,Yes,453841.0
+3946,2,3,48,City Center,Fully-Furnished,Yes,1303876.0
+1545,5,1,20,Suburbs,Unfurnished,No,559421.0
+2193,2,2,1,Rural,Semi-Furnished,Yes,450426.0
+3936,4,3,39,Suburbs,Fully-Furnished,Yes,1066880.0
+1062,4,2,18,Downtown,Fully-Furnished,Yes,615035.0
+2985,4,1,38,Suburbs,Unfurnished,Yes,747550.0
+3854,1,2,27,Downtown,Unfurnished,No,1012948.0
+725,4,3,16,Rural,Fully-Furnished,Yes,364004.0
+1459,5,3,5,Downtown,Unfurnished,No,825584.0
+3567,2,2,18,Suburbs,Fully-Furnished,No,839745.0
+1315,3,1,37,City Center,Semi-Furnished,Yes,590654.0
+3620,5,2,27,Rural,Unfurnished,No,654298.0
+516,5,1,1,Suburbs,Semi-Furnished,Yes,436585.0
+1743,4,2,37,Rural,Semi-Furnished,Yes,392430.0
+2705,1,3,36,Rural,Semi-Furnished,Yes,368610.0
+3024,2,1,3,Suburbs,Fully-Furnished,No,738934.0
+1569,1,1,21,Suburbs,Semi-Furnished,No,329966.0
+3944,2,1,25,City Center,Semi-Furnished,No,1235664.0
+3065,2,3,48,Rural,Semi-Furnished,Yes,444872.0
+1560,1,2,42,Rural,Fully-Furnished,Yes,262754.0
+2827,5,3,35,Suburbs,Semi-Furnished,Yes,887191.0
+3920,2,1,12,Downtown,Semi-Furnished,No,1047473.0
+801,1,2,31,Suburbs,Unfurnished,Yes,178681.0
+4776,2,3,16,Rural,Fully-Furnished,Yes,769671.0
+1106,3,1,40,Suburbs,Semi-Furnished,No,327349.0
+3670,5,1,35,City Center,Unfurnished,No,1365182.0
+1199,4,3,45,Downtown,Fully-Furnished,No,605178.0
+1639,2,3,18,Suburbs,Fully-Furnished,Yes,584308.0
+690,3,3,34,City Center,Fully-Furnished,Yes,529739.0
+2800,4,1,45,Rural,Fully-Furnished,Yes,569670.0
+1480,4,3,39,Suburbs,Fully-Furnished,No,562987.0
+3475,2,1,27,Rural,Fully-Furnished,No,531469.0
+1684,1,3,0,City Center,Semi-Furnished,No,715184.0
+3827,2,1,41,Rural,Semi-Furnished,No,505307.0
+3894,3,1,17,City Center,Semi-Furnished,Yes,1333483.0
+627,4,2,47,City Center,Semi-Furnished,Yes,515115.0
+2565,2,3,39,City Center,Unfurnished,Yes,880934.0
+2316,1,3,32,Suburbs,Semi-Furnished,Yes,550362.0
+1069,2,1,11,Rural,Fully-Furnished,Yes,235990.0
+2395,5,1,7,Rural,Semi-Furnished,Yes,540671.0
+3233,1,1,23,Downtown,Semi-Furnished,Yes,830408.0
+4363,3,2,15,Downtown,Fully-Furnished,Yes,1291185.0
+4514,4,2,49,Downtown,Semi-Furnished,No,1292225.0
+3401,2,1,3,Downtown,Semi-Furnished,No,972253.0
+2186,1,3,37,Rural,Semi-Furnished,Yes,382089.0
+3509,5,3,43,City Center,Unfurnished,No,1387526.0
+654,1,2,26,City Center,Semi-Furnished,Yes,372300.0
+3037,5,2,8,Suburbs,Fully-Furnished,Yes,916644.0
+1909,3,1,46,City Center,Fully-Furnished,No,717240.0
+4557,4,3,15,Rural,Semi-Furnished,Yes,755869.0
+1284,3,1,11,Rural,Semi-Furnished,Yes,352501.0
+3675,2,2,30,Rural,Semi-Furnished,Yes,550766.0
+4841,1,3,23,Suburbs,Fully-Furnished,Yes,1045746.0
+3306,5,3,13,Downtown,Fully-Furnished,Yes,1288715.0
+1037,5,2,44,City Center,Unfurnished,Yes,694494.0
+2341,1,1,24,Rural,Unfurnished,Yes,309645.0
+2955,1,1,33,Rural,Unfurnished,No,340667.0
+1024,2,3,2,Downtown,Fully-Furnished,No,562770.0
+3450,3,2,23,Rural,Unfurnished,Yes,567777.0
+4631,5,3,41,City Center,Semi-Furnished,No,1748678.0
+4615,2,2,8,Suburbs,Semi-Furnished,Yes,1076755.0
+2868,3,1,25,Rural,Fully-Furnished,Yes,469685.0
+4347,2,2,19,City Center,Unfurnished,Yes,1406936.0
+4995,5,1,39,Rural,Semi-Furnished,Yes,819835.0
+3201,1,2,9,Downtown,Fully-Furnished,No,905735.0
+1471,1,3,18,Rural,Unfurnished,No,212957.0
+1666,3,1,2,Rural,Semi-Furnished,No,334899.0
+3274,4,3,23,Suburbs,Unfurnished,No,888691.0
+2482,3,3,4,Downtown,Fully-Furnished,Yes,977294.0
+1353,4,1,2,Downtown,Unfurnished,No,656875.0
+4646,2,1,26,Suburbs,Fully-Furnished,Yes,979260.0
+4236,2,3,15,Rural,Unfurnished,Yes,656518.0
+4269,5,3,48,City Center,Semi-Furnished,No,1592913.0
+1074,4,3,14,Downtown,Fully-Furnished,Yes,704849.0
+3761,5,3,34,Downtown,Fully-Furnished,No,1305289.0
+1648,1,1,11,Rural,Fully-Furnished,No,277743.0
+2215,4,1,40,Rural,Unfurnished,No,416964.0
+4354,3,3,43,Downtown,Unfurnished,No,1176537.0
+2991,1,2,25,Rural,Semi-Furnished,No,424088.0
+3160,1,2,46,City Center,Fully-Furnished,Yes,933742.0
+3624,3,1,33,Downtown,Fully-Furnished,No,1073084.0
+3551,1,3,22,City Center,Unfurnished,No,1143538.0
+504,4,3,30,City Center,Unfurnished,Yes,552094.0
+1376,5,1,49,Rural,Semi-Furnished,No,325126.0
+1491,1,2,19,City Center,Semi-Furnished,No,589395.0
+4642,4,2,11,Rural,Unfurnished,Yes,743514.0
+4864,2,2,22,Suburbs,Fully-Furnished,Yes,1044431.0
+4965,4,1,3,Rural,Semi-Furnished,No,800820.0
+1135,5,2,22,City Center,Unfurnished,Yes,806523.0
+2193,4,1,47,Suburbs,Unfurnished,No,571261.0
+2182,3,1,47,Rural,Fully-Furnished,Yes,409093.0
+619,5,3,0,City Center,Unfurnished,No,814544.0
+1330,2,2,24,Downtown,Unfurnished,No,432887.0
+4175,3,1,1,Downtown,Semi-Furnished,No,1202319.0
+1869,4,2,29,Rural,Unfurnished,Yes,414124.0
+1240,5,2,2,Rural,Unfurnished,No,371487.0
+616,2,3,20,Downtown,Semi-Furnished,Yes,369468.0
+3338,3,2,24,City Center,Fully-Furnished,No,1280177.0
+1650,2,3,19,City Center,Fully-Furnished,No,736701.0
+2431,4,1,48,City Center,Semi-Furnished,No,910545.0
+1512,2,2,21,Rural,Semi-Furnished,No,294653.0
+2164,1,1,20,Suburbs,Fully-Furnished,No,513703.0
+1581,3,2,32,Suburbs,Fully-Furnished,Yes,487404.0
+1012,2,1,37,Suburbs,Fully-Furnished,Yes,322670.0
+3349,4,2,14,Suburbs,Fully-Furnished,Yes,928412.0
+1059,4,2,45,Suburbs,Fully-Furnished,No,457172.0
+4172,2,2,14,Rural,Semi-Furnished,No,608104.0
+3843,4,2,45,Rural,Unfurnished,Yes,643606.0
+4570,5,2,24,Suburbs,Fully-Furnished,No,1168981.0
+1970,5,2,20,Rural,Fully-Furnished,No,453160.0
+1080,5,2,23,Rural,Unfurnished,No,325023.0
+2794,1,2,4,Suburbs,Unfurnished,Yes,635094.0
+3647,2,2,5,City Center,Unfurnished,Yes,1291337.0
+4749,1,1,48,Rural,Unfurnished,Yes,546912.0
+2179,4,3,42,City Center,Unfurnished,Yes,949357.0
+4006,1,2,47,Rural,Unfurnished,Yes,527732.0
+3244,4,3,43,Rural,Semi-Furnished,No,544975.0
+3856,4,2,46,Suburbs,Unfurnished,No,892100.0
+4545,3,2,22,Rural,Unfurnished,No,675027.0
+1743,5,1,3,Downtown,Semi-Furnished,No,827527.0
+3618,4,1,26,Downtown,Unfurnished,Yes,1081053.0
+2641,3,3,17,Suburbs,Fully-Furnished,Yes,769040.0
+3559,5,1,20,City Center,Fully-Furnished,No,1449628.0
+3459,4,1,27,City Center,Unfurnished,Yes,1247810.0
+2765,4,3,34,City Center,Semi-Furnished,No,1138951.0
+2979,1,1,21,Downtown,Fully-Furnished,No,801831.0
+2135,1,2,39,City Center,Semi-Furnished,No,663812.0
+2257,5,3,22,City Center,Fully-Furnished,No,1227540.0
+4952,4,3,2,Suburbs,Unfurnished,Yes,1265239.0
+2570,2,2,39,City Center,Semi-Furnished,No,836137.0
+3349,1,1,49,Downtown,Semi-Furnished,Yes,763452.0
+3751,5,3,9,Downtown,Semi-Furnished,No,1326662.0
+4230,4,3,24,Downtown,Fully-Furnished,No,1331718.0
+2989,4,2,48,Suburbs,Fully-Furnished,No,775876.0
+2131,2,2,7,Suburbs,Fully-Furnished,No,628411.0
+3316,5,1,10,Rural,Unfurnished,Yes,626418.0
+1515,4,3,4,City Center,Fully-Furnished,No,938832.0
+1848,1,1,44,Suburbs,Unfurnished,Yes,328393.0
+3587,2,1,36,Downtown,Semi-Furnished,No,911218.0
+3339,5,2,44,Downtown,Semi-Furnished,No,1070493.0
+835,2,3,37,Suburbs,Unfurnished,No,303763.0
+1395,1,3,28,Suburbs,Fully-Furnished,Yes,412325.0
+4046,5,3,4,Suburbs,Unfurnished,No,1098868.0
+1351,2,2,8,Rural,Semi-Furnished,No,268377.0
+2187,3,2,47,Downtown,Semi-Furnished,No,708088.0
+2431,1,2,1,Rural,Unfurnished,No,370504.0
+4246,1,2,0,Rural,Fully-Furnished,No,671327.0
+2927,1,2,39,City Center,Fully-Furnished,Yes,944333.0
+2068,3,3,29,Downtown,Unfurnished,Yes,773749.0
+4500,3,1,10,Downtown,Unfurnished,No,1241831.0
+3238,4,3,27,Suburbs,Fully-Furnished,No,866083.0
+3998,2,1,43,Suburbs,Semi-Furnished,Yes,813700.0
+4413,4,2,11,City Center,Unfurnished,No,1661742.0
+1566,2,1,38,Rural,Fully-Furnished,Yes,295412.0
+4880,3,3,25,Suburbs,Fully-Furnished,No,1116604.0
+2944,3,3,12,Suburbs,Semi-Furnished,No,795622.0
+4607,4,1,7,Downtown,Semi-Furnished,Yes,1391900.0
+3873,5,2,27,Downtown,Semi-Furnished,No,1253465.0
+4469,4,2,29,Suburbs,Semi-Furnished,Yes,1030541.0
+3046,2,3,8,Downtown,Semi-Furnished,Yes,979393.0
+1253,4,1,38,City Center,Unfurnished,Yes,614812.0
+2582,1,2,30,Suburbs,Fully-Furnished,No,610214.0
+3274,2,2,20,Downtown,Unfurnished,Yes,933671.0
+3396,2,3,46,City Center,Unfurnished,Yes,1117712.0
+4685,5,2,33,Downtown,Unfurnished,No,1417743.0
+1275,3,1,30,Downtown,Unfurnished,No,468750.0
+2125,2,3,24,Downtown,Unfurnished,No,658079.0
+3569,3,3,11,Suburbs,Semi-Furnished,No,903217.0
+917,4,1,0,Rural,Semi-Furnished,No,335812.0
+614,1,3,21,Downtown,Fully-Furnished,No,339339.0
+1116,5,2,39,City Center,Unfurnished,Yes,725950.0
+4474,3,2,36,Suburbs,Fully-Furnished,No,1030643.0
+3767,2,1,46,Suburbs,Semi-Furnished,Yes,768777.0
+1325,3,2,0,City Center,Semi-Furnished,No,795568.0
+2016,2,1,0,Downtown,Semi-Furnished,Yes,686861.0
+3646,3,1,41,Rural,Unfurnished,Yes,509670.0
+912,2,2,41,Downtown,Unfurnished,No,319886.0
+1228,4,1,20,City Center,Semi-Furnished,No,705711.0
+3848,2,2,14,Suburbs,Fully-Furnished,Yes,935953.0
+3308,2,3,16,Rural,Fully-Furnished,No,541059.0
+1175,1,3,21,Suburbs,Semi-Furnished,No,354174.0
+3965,2,1,37,City Center,Fully-Furnished,Yes,1218405.0
+3004,1,2,34,Downtown,Semi-Furnished,Yes,762567.0
+3467,5,2,44,Rural,Fully-Furnished,Yes,675557.0
+3286,1,3,15,Suburbs,Semi-Furnished,No,758405.0
+1622,4,3,7,Suburbs,Fully-Furnished,No,659597.0
+4579,1,2,46,Suburbs,Unfurnished,No,842663.0
+2071,5,1,16,Downtown,Semi-Furnished,No,847253.0
+2643,4,3,16,Rural,Semi-Furnished,Yes,616394.0
+2187,3,1,25,Downtown,Fully-Furnished,No,742642.0
+4632,3,1,12,Downtown,Semi-Furnished,Yes,1294410.0
+4351,1,3,16,Downtown,Semi-Furnished,No,1187418.0
+3940,1,1,37,City Center,Semi-Furnished,No,1121749.0
+4266,5,1,16,City Center,Unfurnished,Yes,1649053.0
+2826,5,2,47,City Center,Unfurnished,No,1193580.0
+3414,2,1,13,Rural,Fully-Furnished,No,557034.0
+4452,5,2,44,Downtown,Unfurnished,Yes,1342703.0
+1095,2,3,5,Downtown,Fully-Furnished,No,562323.0
+1228,4,3,34,City Center,Unfurnished,Yes,740318.0
+1865,1,2,45,Downtown,Fully-Furnished,Yes,506550.0
+4992,4,3,13,Downtown,Unfurnished,Yes,1558999.0
+1198,5,1,46,Suburbs,Unfurnished,Yes,456254.0
+895,4,1,7,Downtown,Fully-Furnished,No,594803.0
+4671,4,1,14,Suburbs,Semi-Furnished,No,1116710.0
+4860,4,3,26,Downtown,Semi-Furnished,No,1448527.0
+3002,5,1,12,Rural,Unfurnished,Yes,545696.0
+2319,4,3,48,City Center,Fully-Furnished,No,1000597.0
+1217,2,1,30,Suburbs,Semi-Furnished,No,314526.0
+3282,5,2,34,City Center,Fully-Furnished,No,1374427.0
+4077,4,3,5,Suburbs,Semi-Furnished,No,1076894.0
+643,5,3,4,Suburbs,Fully-Furnished,Yes,593201.0
+3640,3,1,21,Suburbs,Unfurnished,Yes,825246.0
+4991,2,3,48,Rural,Fully-Furnished,No,729259.0
+3438,4,3,22,Downtown,Semi-Furnished,Yes,1179902.0
+4136,3,2,24,Suburbs,Unfurnished,No,973569.0
+3722,3,2,33,Rural,Fully-Furnished,No,592335.0
+1667,5,1,25,Suburbs,Semi-Furnished,No,640228.0
+3116,3,2,46,Downtown,Unfurnished,Yes,881213.0
+1562,2,1,4,Suburbs,Fully-Furnished,No,450759.0
+2656,2,1,25,Rural,Semi-Furnished,Yes,413382.0
+3482,1,1,19,Downtown,Fully-Furnished,Yes,976253.0
+3794,2,3,5,Rural,Fully-Furnished,No,667184.0
+1656,3,2,5,Downtown,Unfurnished,Yes,699659.0
+1232,2,1,49,Downtown,Unfurnished,Yes,356104.0
+4830,5,2,17,City Center,Semi-Furnished,No,1805508.0
+1453,1,1,3,City Center,Unfurnished,Yes,547031.0
+3039,3,2,16,City Center,Semi-Furnished,Yes,1175980.0
+3824,1,2,13,Downtown,Fully-Furnished,No,1072581.0
+3801,3,1,13,Suburbs,Fully-Furnished,No,916806.0
+2042,5,3,12,Rural,Semi-Furnished,Yes,525274.0
+1691,1,2,6,Rural,Fully-Furnished,No,308024.0
+3493,4,3,43,Rural,Unfurnished,No,585160.0
+3181,3,3,14,City Center,Fully-Furnished,Yes,1311329.0
+1717,4,1,18,Downtown,Unfurnished,Yes,668293.0
+2040,1,1,42,City Center,Semi-Furnished,No,572663.0
+3736,4,1,46,Suburbs,Semi-Furnished,Yes,877744.0
+2886,4,2,43,Downtown,Fully-Furnished,No,980619.0
+4219,1,1,34,Rural,Fully-Furnished,No,590127.0
+1888,5,1,16,City Center,Unfurnished,Yes,973046.0
+2356,4,2,34,City Center,Unfurnished,Yes,975993.0
+1865,4,2,18,Suburbs,Fully-Furnished,No,637888.0
+999,5,1,19,Suburbs,Fully-Furnished,No,555463.0
+2180,4,1,35,City Center,Semi-Furnished,No,899910.0
+1010,4,1,34,Suburbs,Semi-Furnished,No,431123.0
+4812,4,1,31,Rural,Semi-Furnished,Yes,756812.0
+1824,2,3,47,Suburbs,Fully-Furnished,No,508595.0
+1655,5,3,43,Suburbs,Fully-Furnished,Yes,686474.0
+2327,4,1,39,City Center,Fully-Furnished,Yes,942427.0
+3641,5,3,23,City Center,Semi-Furnished,No,1538409.0
+3986,3,2,16,Downtown,Fully-Furnished,Yes,1204110.0
+2310,3,3,6,Downtown,Unfurnished,Yes,871052.0
+3423,4,3,42,City Center,Fully-Furnished,No,1357813.0
+2714,5,1,49,Suburbs,Fully-Furnished,Yes,751413.0
+4686,5,3,0,Suburbs,Fully-Furnished,Yes,1327667.0
+1213,5,3,34,Downtown,Fully-Furnished,No,700958.0
+4102,2,3,31,Downtown,Fully-Furnished,No,1187816.0
+4634,3,3,35,Downtown,Unfurnished,No,1284361.0
+4022,5,2,12,Rural,Unfurnished,No,690898.0
+4768,5,1,5,Rural,Fully-Furnished,No,809453.0
+1743,2,1,13,Downtown,Semi-Furnished,No,556588.0
+4209,2,2,36,Suburbs,Fully-Furnished,No,875068.0
+1581,5,3,47,Downtown,Fully-Furnished,Yes,778757.0
+955,1,2,14,Rural,Fully-Furnished,Yes,267190.0
+1394,5,3,46,Suburbs,Semi-Furnished,No,564746.0
+1884,5,2,3,Rural,Semi-Furnished,Yes,480730.0
+2458,2,1,39,Suburbs,Semi-Furnished,Yes,544365.0
+3572,2,1,15,Rural,Unfurnished,No,511398.0
+2496,5,1,27,Suburbs,Semi-Furnished,Yes,794612.0
+4785,5,3,15,Suburbs,Unfurnished,No,1249114.0
+1004,5,3,3,Suburbs,Unfurnished,Yes,602632.0
+1714,2,2,44,Suburbs,Semi-Furnished,No,433021.0
+2031,5,2,25,City Center,Semi-Furnished,Yes,1048682.0
+3940,5,1,27,Rural,Semi-Furnished,Yes,687092.0
+1323,4,3,31,Rural,Unfurnished,Yes,389339.0
+1428,1,2,44,City Center,Fully-Furnished,No,442448.0
+633,3,3,1,Suburbs,Semi-Furnished,Yes,453899.0
+2605,1,3,30,Suburbs,Semi-Furnished,Yes,597684.0
+4127,4,1,2,Rural,Semi-Furnished,No,690210.0
+2352,3,1,7,City Center,Unfurnished,No,922782.0
+4675,5,3,23,Suburbs,Unfurnished,Yes,1212373.0
+3433,4,3,14,Suburbs,Fully-Furnished,Yes,996469.0
+3784,5,3,42,Suburbs,Semi-Furnished,Yes,1015026.0
+4798,2,3,30,Downtown,Unfurnished,Yes,1275497.0
+3311,4,1,8,City Center,Fully-Furnished,No,1291063.0
+1750,2,2,38,Suburbs,Semi-Furnished,Yes,436324.0
+4012,4,1,44,Downtown,Unfurnished,Yes,1120454.0
+1756,4,2,1,City Center,Semi-Furnished,No,961545.0
+3876,2,3,7,Suburbs,Semi-Furnished,Yes,983142.0
+3986,3,2,6,Rural,Unfurnished,Yes,639401.0
+4084,1,1,43,Downtown,Unfurnished,Yes,904425.0
+1896,5,1,38,Downtown,Unfurnished,No,718310.0
+4137,4,3,41,Suburbs,Semi-Furnished,No,1017327.0
+3830,5,1,15,Suburbs,Semi-Furnished,Yes,1036173.0
+3203,2,3,34,Downtown,Fully-Furnished,Yes,983242.0
+970,5,1,29,Rural,Semi-Furnished,No,330554.0
+1853,2,1,9,Rural,Unfurnished,Yes,346345.0
+3283,5,3,37,City Center,Semi-Furnished,Yes,1394632.0
+3331,1,2,17,Suburbs,Fully-Furnished,No,781843.0
+857,1,1,49,Rural,Fully-Furnished,No,131345.0
+3519,1,2,4,City Center,Unfurnished,No,1135917.0
+1167,1,1,28,Rural,Unfurnished,Yes,200157.0
+4968,1,1,38,Suburbs,Fully-Furnished,Yes,975369.0
+1645,1,1,33,City Center,Fully-Furnished,Yes,489533.0
+4685,2,1,42,City Center,Fully-Furnished,Yes,1412863.0
+4219,4,2,44,City Center,Unfurnished,No,1465969.0
+3245,5,2,22,Rural,Fully-Furnished,Yes,640331.0
+1039,1,1,4,Suburbs,Fully-Furnished,Yes,353434.0
+3279,2,1,29,City Center,Unfurnished,No,1022733.0
+4636,2,2,5,Downtown,Semi-Furnished,No,1311778.0
+4275,2,3,45,Suburbs,Semi-Furnished,Yes,910661.0
+3008,4,3,43,Downtown,Fully-Furnished,No,1052718.0
+3279,5,2,3,Downtown,Semi-Furnished,No,1216967.0
+1424,4,1,28,City Center,Semi-Furnished,Yes,768001.0
+3456,3,1,22,City Center,Semi-Furnished,Yes,1268641.0
+2081,2,3,5,Rural,Semi-Furnished,Yes,459487.0
+3824,3,3,31,Rural,Fully-Furnished,Yes,675890.0
+4985,1,2,41,Rural,Semi-Furnished,No,687020.0
+755,1,3,17,Suburbs,Semi-Furnished,No,295170.0
+2338,4,2,14,Rural,Unfurnished,Yes,463001.0
+2444,5,3,39,Downtown,Fully-Furnished,Yes,1007115.0
+509,3,3,31,Rural,Unfurnished,No,218713.0
+3371,5,3,8,City Center,Unfurnished,Yes,1524889.0
+1297,4,1,36,Rural,Fully-Furnished,Yes,324535.0
+1515,1,1,9,Suburbs,Semi-Furnished,Yes,360229.0
+2324,5,1,19,Suburbs,Unfurnished,Yes,716894.0
+4969,5,3,5,Downtown,Fully-Furnished,No,1673716.0
+3636,1,2,47,Suburbs,Semi-Furnished,Yes,721931.0
+2693,3,2,2,Rural,Fully-Furnished,No,540786.0
+723,1,2,41,City Center,Unfurnished,Yes,243921.0
+4658,5,2,10,Suburbs,Semi-Furnished,Yes,1256179.0
+4425,3,1,42,Downtown,Semi-Furnished,No,1138184.0
+4500,3,1,16,Rural,Fully-Furnished,Yes,749447.0
+2133,1,3,31,Downtown,Semi-Furnished,No,631701.0
+2652,5,3,3,Suburbs,Unfurnished,Yes,918767.0
+1010,4,2,3,Suburbs,Unfurnished,Yes,492711.0
+884,5,1,16,Downtown,Unfurnished,Yes,583047.0
+904,2,2,40,Rural,Fully-Furnished,Yes,238581.0
+2500,4,3,18,Suburbs,Semi-Furnished,Yes,780272.0
+3256,3,3,4,City Center,Semi-Furnished,No,1321225.0
+2168,4,2,31,Suburbs,Semi-Furnished,No,679422.0
+1960,3,3,21,Rural,Unfurnished,Yes,382663.0
+4136,3,2,5,Suburbs,Semi-Furnished,Yes,1006336.0
+3224,4,1,34,Downtown,Unfurnished,No,953085.0
+4678,3,2,21,Suburbs,Semi-Furnished,No,1061752.0
+2548,3,1,0,Suburbs,Unfurnished,Yes,686929.0
+4646,2,1,19,Rural,Semi-Furnished,Yes,681566.0
+1216,5,3,21,Downtown,Fully-Furnished,No,771274.0
+2323,5,3,47,Rural,Fully-Furnished,Yes,546618.0
+2581,2,3,10,Suburbs,Unfurnished,No,676549.0
+3919,4,2,12,City Center,Unfurnished,Yes,1502838.0
+2074,1,2,41,Suburbs,Semi-Furnished,No,440986.0
+749,1,3,2,Rural,Semi-Furnished,No,216234.0
+1173,1,2,8,City Center,Fully-Furnished,Yes,583837.0
+2665,2,3,11,Rural,Semi-Furnished,No,525032.0
+1270,2,2,22,Rural,Unfurnished,Yes,274325.0
+4462,3,1,13,Downtown,Unfurnished,Yes,1254510.0
+4863,1,1,32,City Center,Unfurnished,Yes,1369302.0
+2484,4,3,17,Suburbs,Unfurnished,Yes,747299.0
+1577,4,2,48,Rural,Unfurnished,No,324042.0
+735,1,2,40,Suburbs,Fully-Furnished,Yes,218674.0
+888,1,1,8,Downtown,Fully-Furnished,Yes,371000.0
+3537,1,1,22,Downtown,Unfurnished,Yes,850298.0
+2348,2,3,9,City Center,Semi-Furnished,Yes,971664.0
+3314,2,1,18,Downtown,Unfurnished,No,849211.0
+3874,2,3,46,Downtown,Fully-Furnished,Yes,1060185.0
+3778,5,1,4,Suburbs,Unfurnished,No,1013537.0
+1752,4,1,46,Downtown,Fully-Furnished,No,633823.0
+4481,4,2,22,Downtown,Fully-Furnished,No,1403500.0
+2622,3,1,29,Rural,Unfurnished,Yes,408162.0
+2650,2,1,24,Downtown,Unfurnished,Yes,743315.0
+1829,5,3,27,Rural,Semi-Furnished,Yes,468042.0
+1858,5,1,33,Downtown,Fully-Furnished,Yes,811759.0
+2982,4,3,44,Downtown,Semi-Furnished,No,963254.0
+2517,2,1,47,City Center,Unfurnished,No,735326.0
+1831,3,1,46,City Center,Fully-Furnished,Yes,700846.0
+4844,2,3,24,Rural,Semi-Furnished,Yes,747545.0
+4761,1,2,9,Downtown,Semi-Furnished,Yes,1253470.0
+1858,2,3,13,Suburbs,Semi-Furnished,Yes,541588.0
+3677,1,3,41,City Center,Unfurnished,Yes,1108126.0
+2628,1,3,45,Suburbs,Unfurnished,Yes,532594.0
+2680,3,2,29,City Center,Unfurnished,Yes,1031205.0
+637,4,1,40,City Center,Fully-Furnished,No,517420.0
+3972,2,3,24,Downtown,Unfurnished,No,1077867.0
+3332,1,3,13,City Center,Fully-Furnished,No,1171374.0
+4079,2,2,34,Suburbs,Semi-Furnished,No,848154.0
+3531,4,3,47,City Center,Semi-Furnished,Yes,1336112.0
+4664,4,1,33,Rural,Unfurnished,Yes,706525.0
+3093,5,2,9,Downtown,Semi-Furnished,Yes,1205257.0
+4800,4,1,34,Downtown,Unfurnished,Yes,1317923.0
+4318,3,1,10,Rural,Fully-Furnished,Yes,727855.0
+4638,1,2,10,Rural,Semi-Furnished,No,625130.0
+4323,5,3,20,Rural,Unfurnished,Yes,748948.0
+4542,3,1,20,City Center,Semi-Furnished,No,1498909.0
+2406,2,1,21,Downtown,Semi-Furnished,Yes,708785.0
+1260,1,1,44,Rural,Unfurnished,No,88154.0
+3945,4,1,6,City Center,Semi-Furnished,Yes,1515742.0
+1399,1,2,16,Rural,Semi-Furnished,No,207498.0
+4955,2,2,1,Suburbs,Semi-Furnished,Yes,1113581.0
+3447,5,1,11,Suburbs,Semi-Furnished,Yes,991612.0
+2219,5,3,41,Downtown,Fully-Furnished,Yes,995459.0
+780,5,1,17,City Center,Semi-Furnished,Yes,681139.0
+3766,4,3,10,Suburbs,Semi-Furnished,No,993221.0
+2387,3,1,15,Suburbs,Unfurnished,Yes,650471.0
+3766,3,3,48,City Center,Fully-Furnished,No,1343323.0
+1166,1,1,17,Rural,Unfurnished,Yes,181940.0
+4688,4,3,34,City Center,Unfurnished,No,1653045.0
+1171,5,1,25,Rural,Unfurnished,Yes,325172.0
+2469,5,1,15,Suburbs,Fully-Furnished,Yes,802528.0
+4656,2,3,5,Suburbs,Unfurnished,No,1060401.0
+3622,2,2,43,Suburbs,Unfurnished,Yes,744440.0
+4400,5,3,42,Downtown,Unfurnished,Yes,1380208.0
+1023,5,2,46,Downtown,Semi-Furnished,No,590001.0
+2893,4,1,46,Downtown,Unfurnished,Yes,843277.0
+3617,3,3,47,City Center,Fully-Furnished,No,1281871.0
+3093,2,3,41,Suburbs,Fully-Furnished,Yes,717821.0
+2468,3,3,11,Suburbs,Semi-Furnished,No,728008.0
+2253,4,2,12,City Center,Fully-Furnished,No,1044322.0
+2796,5,2,3,Downtown,Fully-Furnished,No,1152900.0
+2761,3,1,38,City Center,Semi-Furnished,No,926377.0
+2786,5,2,1,Downtown,Unfurnished,Yes,1068398.0
+4702,5,2,25,Suburbs,Semi-Furnished,Yes,1186088.0
+3378,1,1,26,Rural,Unfurnished,No,461982.0
+4643,3,3,26,Downtown,Unfurnished,Yes,1355899.0
+4144,3,3,14,Suburbs,Fully-Furnished,Yes,1026874.0
+4932,5,1,7,Suburbs,Semi-Furnished,Yes,1215097.0
+2555,4,3,6,Rural,Fully-Furnished,No,571088.0
+1776,1,2,46,Suburbs,Fully-Furnished,Yes,451047.0
+3266,5,1,45,Suburbs,Unfurnished,Yes,812101.0
+802,2,1,39,Downtown,Fully-Furnished,No,289832.0
+1138,2,1,11,Downtown,Semi-Furnished,Yes,483599.0
+555,1,3,12,Rural,Fully-Furnished,No,213298.0
+1025,4,1,42,Rural,Fully-Furnished,No,310860.0
+4623,5,1,16,Suburbs,Unfurnished,No,1115198.0
+2625,3,1,16,Downtown,Semi-Furnished,Yes,845592.0
+3787,1,3,35,Rural,Fully-Furnished,Yes,601753.0
+864,4,2,20,Rural,Unfurnished,No,276783.0
+2146,3,1,7,City Center,Fully-Furnished,No,950681.0
+1418,2,2,4,Rural,Semi-Furnished,No,319505.0
+3297,2,3,25,Suburbs,Fully-Furnished,No,790667.0
+2031,3,3,15,Downtown,Fully-Furnished,No,821649.0
+3845,1,3,35,Rural,Unfurnished,No,537028.0
+2406,2,3,27,City Center,Fully-Furnished,Yes,972808.0
+3586,5,2,28,Downtown,Unfurnished,No,1187045.0
+2575,3,1,46,Rural,Semi-Furnished,No,361566.0
+1213,3,3,11,City Center,Fully-Furnished,No,733990.0
+1562,2,3,36,Rural,Semi-Furnished,Yes,285174.0
+2476,1,2,29,Downtown,Semi-Furnished,Yes,659891.0
+1796,5,2,22,Downtown,Fully-Furnished,Yes,860558.0
+625,1,3,15,Downtown,Unfurnished,Yes,291117.0
+4096,4,1,13,Suburbs,Semi-Furnished,No,1022530.0
+3783,4,1,9,Rural,Semi-Furnished,Yes,633285.0
+2103,2,3,6,Suburbs,Fully-Furnished,No,614729.0
+566,2,2,44,Downtown,Fully-Furnished,No,287115.0
+732,2,3,36,City Center,Fully-Furnished,No,479518.0
+2656,4,3,28,Rural,Fully-Furnished,No,597017.0
+1669,1,2,2,Suburbs,Fully-Furnished,No,489271.0
+2658,1,3,14,Rural,Fully-Furnished,No,490157.0
+4706,2,3,35,City Center,Unfurnished,Yes,1477379.0
+1993,5,3,46,Suburbs,Semi-Furnished,Yes,734535.0
+4507,1,2,45,Downtown,Unfurnished,Yes,1021845.0
+2972,4,1,18,Suburbs,Unfurnished,Yes,772683.0
+3160,3,1,12,Rural,Fully-Furnished,Yes,580213.0
+3239,3,2,41,Rural,Semi-Furnished,No,478976.0
+2261,3,1,20,Rural,Unfurnished,Yes,379779.0
+4014,5,3,36,Rural,Fully-Furnished,Yes,739362.0
+2475,2,1,26,Downtown,Fully-Furnished,Yes,732671.0
+2862,4,3,28,Suburbs,Semi-Furnished,No,844392.0
+1376,5,1,19,Downtown,Unfurnished,No,672937.0
+4312,4,2,24,Downtown,Unfurnished,No,1278939.0
+3948,4,1,5,Downtown,Unfurnished,Yes,1175614.0
+1812,2,1,35,Rural,Fully-Furnished,Yes,339775.0
+1960,3,1,1,Rural,Semi-Furnished,Yes,428400.0
+3209,2,2,21,Rural,Semi-Furnished,Yes,480480.0
+2824,5,1,31,Suburbs,Unfurnished,Yes,783581.0
+2233,5,2,15,City Center,Fully-Furnished,No,1160770.0
+2105,5,3,17,Rural,Unfurnished,Yes,531692.0
+3063,2,1,4,Suburbs,Semi-Furnished,No,703245.0
+3921,4,2,35,Rural,Fully-Furnished,Yes,670013.0
+4017,4,2,29,Rural,Unfurnished,No,634510.0
+2897,1,1,44,Downtown,Unfurnished,No,665514.0
+4235,5,3,18,Downtown,Fully-Furnished,No,1479752.0
+3370,4,2,22,Downtown,Semi-Furnished,No,1101823.0
+1660,1,1,33,Suburbs,Fully-Furnished,Yes,400996.0
+742,4,3,12,City Center,Unfurnished,Yes,646766.0
+3090,5,2,42,City Center,Unfurnished,Yes,1271933.0
+1563,3,2,28,Suburbs,Unfurnished,No,443765.0
+4824,5,3,35,Rural,Unfurnished,Yes,845220.0
+3095,2,3,21,Suburbs,Semi-Furnished,Yes,748415.0
+1419,4,1,46,Rural,Semi-Furnished,Yes,298625.0
+505,4,1,35,Suburbs,Unfurnished,Yes,309148.0
+967,2,2,8,Suburbs,Semi-Furnished,No,380039.0
+4670,2,3,38,Suburbs,Semi-Furnished,No,988473.0
+503,3,3,18,City Center,Semi-Furnished,Yes,545438.0
+1145,4,3,37,Downtown,Unfurnished,Yes,606533.0
+617,4,2,5,Suburbs,Fully-Furnished,Yes,483922.0
+3428,3,3,46,City Center,Fully-Furnished,No,1233869.0
+3051,1,3,14,Downtown,Fully-Furnished,No,914579.0
+4789,3,2,19,Downtown,Unfurnished,No,1363652.0
+1346,5,1,8,Suburbs,Semi-Furnished,Yes,569570.0
+3262,4,1,31,Rural,Semi-Furnished,No,529039.0
+1641,2,2,3,Rural,Unfurnished,No,320665.0
+2310,5,3,49,Rural,Unfurnished,No,449676.0
+1223,4,2,17,Suburbs,Fully-Furnished,No,505272.0
+724,3,1,4,Rural,Fully-Furnished,No,296342.0
+4708,5,1,19,City Center,Unfurnished,Yes,1677184.0
+2548,4,2,22,City Center,Fully-Furnished,Yes,1133712.0
+4915,1,2,10,City Center,Semi-Furnished,Yes,1539229.0
+2073,1,1,36,City Center,Unfurnished,Yes,594444.0
+2328,2,2,21,Downtown,Unfurnished,No,693055.0
+2417,4,1,3,City Center,Semi-Furnished,Yes,1068841.0
+4734,1,2,28,Rural,Semi-Furnished,Yes,653157.0
+2526,3,2,43,Suburbs,Semi-Furnished,Yes,618712.0
+4244,4,2,33,Rural,Fully-Furnished,No,719799.0
+1401,3,1,12,City Center,Unfurnished,Yes,676888.0
+2539,3,2,41,Downtown,Fully-Furnished,No,816296.0
+509,1,1,8,City Center,Semi-Furnished,No,259824.0
+760,4,1,41,Suburbs,Fully-Furnished,No,405100.0
+2173,5,2,30,Rural,Semi-Furnished,Yes,502924.0
+2719,1,2,6,Suburbs,Fully-Furnished,No,651446.0
+2560,1,1,3,Suburbs,Fully-Furnished,Yes,619885.0
+4213,4,1,18,Suburbs,Semi-Furnished,Yes,1010651.0
+2119,4,3,41,Rural,Fully-Furnished,Yes,477954.0
+820,3,1,29,City Center,Unfurnished,No,488838.0
+1842,4,3,30,Suburbs,Fully-Furnished,No,642212.0
+2876,3,3,34,Rural,Fully-Furnished,Yes,546165.0
+3332,1,3,20,Downtown,Unfurnished,No,890578.0
+3324,2,2,30,Rural,Semi-Furnished,No,478087.0
+2494,5,2,18,Downtown,Unfurnished,No,980572.0
+3458,1,1,30,Rural,Fully-Furnished,Yes,496689.0
+2538,4,3,31,City Center,Semi-Furnished,No,1133881.0
+3990,5,2,1,Suburbs,Fully-Furnished,No,1154012.0
+4177,2,2,9,City Center,Fully-Furnished,Yes,1466404.0
+1618,2,2,1,Rural,Unfurnished,No,302196.0
+2104,3,2,1,Suburbs,Unfurnished,Yes,656139.0
+4527,5,2,23,Downtown,Semi-Furnished,No,1447880.0
+735,3,3,16,Rural,Semi-Furnished,No,254179.0
+2469,1,3,31,Suburbs,Semi-Furnished,No,551648.0
+4929,5,3,15,Downtown,Fully-Furnished,No,1594903.0
+2408,1,3,15,Downtown,Unfurnished,No,720192.0
+875,3,1,45,City Center,Unfurnished,No,411550.0
+4030,5,3,38,Rural,Unfurnished,Yes,738407.0
+3135,3,2,30,Downtown,Semi-Furnished,No,945799.0
+2070,5,3,42,Suburbs,Unfurnished,No,688829.0
+3060,3,1,23,Downtown,Unfurnished,No,909255.0
+3891,2,2,0,Downtown,Unfurnished,Yes,1115397.0
+3465,3,3,10,City Center,Semi-Furnished,Yes,1348431.0
+4143,2,3,20,City Center,Unfurnished,Yes,1389152.0
+4350,3,3,3,Suburbs,Semi-Furnished,No,1076814.0
+1372,5,2,6,City Center,Unfurnished,No,889429.0
+1752,5,2,25,Downtown,Unfurnished,Yes,785603.0
+1814,5,1,46,Downtown,Unfurnished,Yes,722768.0
+3398,4,2,49,City Center,Semi-Furnished,Yes,1242133.0
+577,1,2,11,Downtown,Semi-Furnished,No,287959.0
+3121,5,3,30,Downtown,Unfurnished,Yes,1126211.0
+4727,2,2,16,Suburbs,Fully-Furnished,No,1042133.0
+1100,5,3,32,City Center,Semi-Furnished,No,819511.0
+1565,4,3,10,Downtown,Semi-Furnished,No,779646.0
+2636,2,2,27,City Center,Unfurnished,Yes,933080.0
+2949,4,1,31,Suburbs,Fully-Furnished,No,808452.0
+2843,2,1,0,City Center,Unfurnished,Yes,1002782.0
+2363,3,2,46,Downtown,Semi-Furnished,Yes,760899.0
+1818,1,1,27,City Center,Semi-Furnished,Yes,551064.0
+4097,1,3,41,Downtown,Unfurnished,Yes,1065301.0
+4262,4,3,6,Downtown,Unfurnished,No,1360224.0
+2690,1,2,1,Downtown,Fully-Furnished,No,831063.0
+1492,4,1,41,Suburbs,Fully-Furnished,No,474415.0
+3212,4,1,23,City Center,Semi-Furnished,No,1215398.0
+2692,4,3,3,Suburbs,Fully-Furnished,Yes,921275.0
+1748,1,2,43,City Center,Fully-Furnished,Yes,563806.0
+3554,4,1,18,Suburbs,Semi-Furnished,Yes,951604.0
+4533,1,2,25,Rural,Semi-Furnished,Yes,626854.0
+2497,4,1,10,Downtown,Semi-Furnished,No,916339.0
+4187,5,3,39,Downtown,Semi-Furnished,Yes,1378134.0
+2651,4,3,49,Suburbs,Unfurnished,No,716721.0
+4518,2,2,42,Rural,Semi-Furnished,Yes,609438.0
+3610,4,3,10,Downtown,Semi-Furnished,Yes,1242793.0
+2470,3,1,44,City Center,Semi-Furnished,Yes,891420.0
+697,4,3,2,Suburbs,Fully-Furnished,Yes,526774.0
+3126,2,2,11,Downtown,Semi-Furnished,No,933127.0
+1702,2,2,2,Downtown,Unfurnished,No,586002.0
+2535,1,2,41,Suburbs,Unfurnished,No,479148.0
+977,5,1,26,Suburbs,Semi-Furnished,No,491921.0
+1754,4,1,48,City Center,Unfurnished,Yes,704127.0
+1422,1,1,1,City Center,Fully-Furnished,Yes,603682.0
+919,5,1,48,Downtown,Semi-Furnished,No,506331.0
+2704,4,1,15,Downtown,Unfurnished,No,903681.0
+3097,3,3,1,Suburbs,Unfurnished,Yes,852462.0
+1620,4,1,29,Downtown,Semi-Furnished,Yes,647679.0
+3568,2,1,19,Downtown,Unfurnished,No,932761.0
+1450,2,3,37,Suburbs,Semi-Furnished,No,438795.0
+2836,3,1,27,Downtown,Unfurnished,No,818459.0
+2743,1,2,24,Downtown,Fully-Furnished,Yes,811327.0
+3145,5,1,31,Rural,Unfurnished,No,557791.0
+2357,4,1,9,City Center,Unfurnished,No,1006465.0
+2365,2,2,41,Suburbs,Semi-Furnished,No,558767.0
+3412,1,2,39,Rural,Unfurnished,No,447518.0
+3353,3,2,32,City Center,Semi-Furnished,No,1155026.0
+3728,2,2,12,City Center,Fully-Furnished,Yes,1295671.0
+4219,3,1,40,City Center,Semi-Furnished,No,1336822.0
+3728,4,2,41,Rural,Semi-Furnished,Yes,593088.0
+2871,5,2,46,Rural,Unfurnished,No,560731.0
+3391,2,3,36,City Center,Fully-Furnished,No,1194415.0
+4256,2,2,15,Downtown,Semi-Furnished,No,1172333.0
+4725,4,2,44,Downtown,Unfurnished,Yes,1329271.0
+594,1,3,21,Rural,Unfurnished,Yes,152687.0
+3174,5,3,19,Rural,Semi-Furnished,Yes,618199.0
+2455,2,1,49,Rural,Unfurnished,No,285543.0
+1293,5,3,42,City Center,Semi-Furnished,No,867932.0
+2334,2,1,26,Downtown,Semi-Furnished,Yes,708622.0
+2616,5,3,40,Rural,Semi-Furnished,Yes,545404.0
+4606,3,3,15,Rural,Fully-Furnished,No,788880.0
+3825,2,1,33,Suburbs,Semi-Furnished,Yes,810428.0
+3419,5,3,31,City Center,Unfurnished,No,1436016.0
+3097,1,1,25,Suburbs,Fully-Furnished,Yes,629956.0
+3705,3,3,24,Downtown,Unfurnished,Yes,1100461.0
+1314,3,2,1,Suburbs,Fully-Furnished,Yes,574772.0
+845,1,3,11,Suburbs,Fully-Furnished,No,304114.0
+2849,5,1,39,Suburbs,Fully-Furnished,No,802256.0
+862,4,3,8,City Center,Fully-Furnished,Yes,783586.0
+2943,1,1,11,Downtown,Unfurnished,No,739972.0
+2765,5,1,25,Suburbs,Semi-Furnished,No,799989.0
+2688,1,2,8,City Center,Unfurnished,No,881408.0
+3505,1,2,9,Downtown,Semi-Furnished,No,954540.0
+3781,2,1,31,Rural,Unfurnished,Yes,525943.0
+1484,5,3,33,Suburbs,Fully-Furnished,No,687895.0
+2139,4,1,47,Downtown,Fully-Furnished,No,707567.0
+1327,2,1,19,Suburbs,Semi-Furnished,Yes,384845.0
+3230,1,3,38,Rural,Semi-Furnished,No,467427.0
+4031,1,3,1,Downtown,Unfurnished,No,1108847.0
+4951,1,3,0,City Center,Semi-Furnished,No,1582028.0
+3435,5,3,35,Downtown,Unfurnished,Yes,1218017.0
+4376,5,1,23,City Center,Semi-Furnished,Yes,1644459.0
+626,2,1,26,Downtown,Semi-Furnished,No,252512.0
+3677,4,2,1,City Center,Semi-Furnished,No,1485963.0
+3556,2,1,30,Rural,Fully-Furnished,Yes,581751.0
+1103,3,3,13,Rural,Fully-Furnished,Yes,367834.0
+3949,1,2,1,Rural,Unfurnished,Yes,575236.0
+4646,1,3,28,Downtown,Semi-Furnished,No,1222710.0
+4033,1,1,14,Rural,Unfurnished,No,506152.0
+3867,2,2,11,Suburbs,Semi-Furnished,Yes,931211.0
+3868,2,3,36,Rural,Fully-Furnished,No,628018.0
+4297,1,2,27,City Center,Fully-Furnished,No,1292506.0
+2292,2,2,19,City Center,Semi-Furnished,No,845075.0
+3361,5,1,38,City Center,Semi-Furnished,No,1284174.0
+3976,5,3,23,Downtown,Fully-Furnished,No,1348929.0
+3917,2,2,20,Suburbs,Fully-Furnished,No,904269.0
+2145,1,2,9,Rural,Unfurnished,No,313421.0
+1705,2,3,45,Suburbs,Fully-Furnished,Yes,497831.0
+3530,2,2,13,Suburbs,Semi-Furnished,Yes,805381.0
+3372,2,2,36,City Center,Unfurnished,Yes,1102300.0
+3572,3,2,17,City Center,Semi-Furnished,Yes,1330993.0
+2354,5,3,23,City Center,Unfurnished,Yes,1165662.0
+4521,4,3,13,Downtown,Semi-Furnished,Yes,1455418.0
+3208,4,3,33,Suburbs,Fully-Furnished,Yes,912898.0
+4002,3,3,11,Suburbs,Semi-Furnished,Yes,1046606.0
+1832,2,1,21,Downtown,Unfurnished,Yes,538550.0
+701,3,2,5,Downtown,Semi-Furnished,No,474679.0
+4007,3,3,35,Downtown,Unfurnished,No,1143761.0
+4712,1,2,44,Suburbs,Semi-Furnished,Yes,910456.0
+1074,5,2,35,Suburbs,Fully-Furnished,No,541985.0
+1036,4,1,21,City Center,Fully-Furnished,No,655084.0
+2125,2,3,13,City Center,Semi-Furnished,Yes,896668.0
+2622,4,3,15,Suburbs,Semi-Furnished,Yes,838281.0
+885,4,2,35,City Center,Semi-Furnished,Yes,643096.0
+3781,5,3,24,Downtown,Unfurnished,No,1298595.0
+974,4,2,31,Rural,Semi-Furnished,No,292521.0
+917,4,2,32,City Center,Semi-Furnished,Yes,630728.0
+4100,3,1,44,Suburbs,Unfurnished,No,859363.0
+1454,5,1,35,City Center,Fully-Furnished,No,825135.0
+1705,1,1,19,City Center,Semi-Furnished,No,522970.0
+4620,2,2,17,City Center,Semi-Furnished,Yes,1520648.0
+2490,4,3,37,Rural,Fully-Furnished,No,504389.0
+4072,2,1,2,Downtown,Fully-Furnished,No,1126861.0
+4880,1,3,22,Suburbs,Unfurnished,No,960233.0
+4658,2,1,31,Rural,Semi-Furnished,No,629038.0
+3213,1,1,44,Suburbs,Semi-Furnished,No,568410.0
+2703,3,2,15,Suburbs,Unfurnished,No,656013.0
+3620,4,1,4,Suburbs,Fully-Furnished,No,960831.0
+1466,1,1,3,Rural,Unfurnished,Yes,240309.0
+3932,2,2,20,Downtown,Fully-Furnished,Yes,1126702.0
+1188,4,3,39,Suburbs,Unfurnished,No,455662.0
+4743,3,1,13,Downtown,Fully-Furnished,Yes,1399762.0
+4201,4,2,38,Downtown,Unfurnished,No,1231572.0
+841,1,1,30,City Center,Fully-Furnished,No,303078.0
+2224,3,2,13,Rural,Fully-Furnished,No,462807.0
+4922,2,3,5,Rural,Fully-Furnished,Yes,827933.0
+2292,3,3,11,City Center,Fully-Furnished,No,1080372.0
+2259,3,2,15,City Center,Fully-Furnished,No,956006.0
+3712,5,2,16,Downtown,Semi-Furnished,Yes,1267714.0
+1489,3,2,44,Suburbs,Fully-Furnished,Yes,463783.0
+2762,3,3,22,Rural,Semi-Furnished,No,499446.0
+2982,4,1,13,Suburbs,Fully-Furnished,Yes,834652.0
+1451,2,3,6,Suburbs,Semi-Furnished,Yes,510460.0
+1222,4,2,45,City Center,Semi-Furnished,No,670654.0
+3889,4,2,31,Suburbs,Unfurnished,No,955673.0
+2579,1,3,14,Downtown,Fully-Furnished,No,791739.0
+3217,4,2,43,City Center,Unfurnished,Yes,1164096.0
+2832,5,3,16,Suburbs,Unfurnished,Yes,873552.0
+3876,5,2,40,City Center,Fully-Furnished,Yes,1515125.0
+2000,1,1,46,Downtown,Unfurnished,No,407099.0
+785,2,1,43,Downtown,Fully-Furnished,Yes,330442.0
+3995,2,2,33,Suburbs,Unfurnished,Yes,823309.0
+2565,4,3,4,City Center,Fully-Furnished,No,1262491.0
+1268,4,1,44,Suburbs,Fully-Furnished,No,415002.0
+3557,4,3,26,Suburbs,Fully-Furnished,No,989004.0
+4789,2,2,22,City Center,Semi-Furnished,Yes,1534045.0
+2661,3,3,39,Suburbs,Unfurnished,No,703631.0
+3793,5,1,13,Downtown,Semi-Furnished,Yes,1246794.0
+1446,3,3,14,City Center,Unfurnished,Yes,775738.0
+3835,3,3,42,City Center,Unfurnished,No,1308841.0
+4650,2,2,32,City Center,Unfurnished,No,1425250.0
+1981,3,2,30,City Center,Semi-Furnished,No,817950.0
+2401,1,2,34,Suburbs,Unfurnished,No,476046.0
+3951,4,1,16,Suburbs,Semi-Furnished,No,961919.0
+4564,1,1,27,Downtown,Fully-Furnished,Yes,1089476.0
+554,5,2,18,Rural,Unfurnished,Yes,320547.0
+2323,4,2,45,Rural,Unfurnished,Yes,486983.0
+3962,3,1,22,Downtown,Fully-Furnished,No,1151415.0
+3579,5,1,31,Rural,Fully-Furnished,Yes,646165.0
+1332,4,1,39,Downtown,Unfurnished,No,507009.0
+4908,3,1,12,Suburbs,Fully-Furnished,No,1132903.0
+3306,1,2,19,City Center,Semi-Furnished,Yes,1064929.0
+2990,4,1,34,City Center,Semi-Furnished,Yes,1128214.0
+827,3,2,4,Suburbs,Unfurnished,No,406328.0
+3810,1,3,8,City Center,Semi-Furnished,Yes,1245622.0
+3800,5,3,28,City Center,Semi-Furnished,No,1572281.0
+4175,5,1,5,Rural,Unfurnished,Yes,736755.0
+3554,5,3,24,Suburbs,Fully-Furnished,Yes,1035201.0
+2643,5,3,30,Rural,Unfurnished,Yes,527494.0
+1811,2,3,21,Rural,Semi-Furnished,Yes,373147.0
+3691,4,1,1,City Center,Unfurnished,Yes,1450115.0
+3038,4,1,44,City Center,Unfurnished,No,1071298.0
+4483,2,3,4,Suburbs,Semi-Furnished,Yes,1043286.0
+664,3,2,26,City Center,Semi-Furnished,Yes,502506.0
+4777,3,3,24,City Center,Unfurnished,Yes,1686807.0
+1322,5,1,7,Suburbs,Semi-Furnished,No,585786.0
+1443,1,1,0,City Center,Semi-Furnished,No,564398.0
+4925,3,1,19,Rural,Semi-Furnished,No,749056.0
+1274,1,3,43,Suburbs,Semi-Furnished,No,323571.0
+2698,4,2,22,City Center,Semi-Furnished,No,1121641.0
+3656,1,1,31,Downtown,Semi-Furnished,Yes,849709.0
+4742,4,1,10,Suburbs,Fully-Furnished,Yes,1152127.0
+4195,2,3,38,Suburbs,Unfurnished,Yes,884805.0
+3952,2,2,46,Downtown,Semi-Furnished,No,1024386.0
+1414,5,3,23,City Center,Unfurnished,No,926947.0
+1808,3,1,10,City Center,Fully-Furnished,Yes,844671.0
+4677,5,2,28,Suburbs,Semi-Furnished,No,1141286.0
+1013,4,2,25,Suburbs,Unfurnished,No,470072.0
+2420,5,1,15,City Center,Semi-Furnished,No,1115076.0
+4094,1,2,34,City Center,Semi-Furnished,Yes,1228050.0
+1909,4,2,19,Rural,Semi-Furnished,Yes,442666.0
+3690,2,3,45,Suburbs,Semi-Furnished,No,808373.0
+4991,3,1,2,Suburbs,Semi-Furnished,No,1140944.0
+2055,4,1,0,Downtown,Semi-Furnished,No,813455.0
+1304,4,1,46,Rural,Semi-Furnished,No,312988.0
+1779,1,1,0,City Center,Fully-Furnished,Yes,657740.0
+4077,3,1,16,Rural,Fully-Furnished,No,636869.0
+3401,2,2,1,City Center,Semi-Furnished,Yes,1263519.0
+1887,4,3,28,City Center,Semi-Furnished,Yes,977490.0
+3261,4,1,19,Rural,Fully-Furnished,Yes,660728.0
+3179,1,3,5,Suburbs,Fully-Furnished,No,779587.0
+2606,5,3,7,City Center,Fully-Furnished,Yes,1389429.0
+4723,2,2,28,Rural,Semi-Furnished,Yes,647810.0
+3268,3,1,47,Downtown,Unfurnished,No,836030.0
+4453,4,2,32,Rural,Unfurnished,No,709071.0
+3686,4,1,2,Downtown,Unfurnished,No,1133543.0
+3780,2,2,34,City Center,Unfurnished,Yes,1197253.0
+3073,5,3,4,Rural,Semi-Furnished,No,677704.0
+3099,4,1,26,Rural,Unfurnished,Yes,539303.0
+4533,2,3,43,Downtown,Fully-Furnished,Yes,1241147.0
+736,1,3,11,Rural,Fully-Furnished,No,223738.0
+1804,5,2,19,Rural,Unfurnished,Yes,453125.0
+3930,3,1,44,City Center,Fully-Furnished,Yes,1303245.0
+1801,4,3,19,Rural,Semi-Furnished,Yes,439502.0
+3041,2,2,8,Suburbs,Unfurnished,Yes,742615.0
+2551,1,1,38,Downtown,Unfurnished,No,601544.0
+941,3,1,3,Rural,Semi-Furnished,Yes,282670.0
+2576,2,3,18,Downtown,Fully-Furnished,No,861962.0
+3680,2,1,37,Downtown,Semi-Furnished,Yes,956676.0
+3157,3,3,26,Downtown,Semi-Furnished,Yes,1038352.0
+4298,1,1,44,Rural,Fully-Furnished,No,576929.0
+1304,1,2,42,Rural,Semi-Furnished,Yes,191993.0
+574,5,3,12,Downtown,Fully-Furnished,Yes,657572.0
+2675,4,3,12,Suburbs,Fully-Furnished,Yes,855862.0
+4424,3,1,21,Downtown,Semi-Furnished,Yes,1219322.0
+2589,3,1,27,Suburbs,Fully-Furnished,Yes,646252.0
+540,3,3,46,Downtown,Semi-Furnished,Yes,313410.0
+2581,1,1,44,City Center,Fully-Furnished,No,756379.0
+2122,4,2,21,Downtown,Unfurnished,No,773372.0
+841,5,1,42,Downtown,Fully-Furnished,No,564555.0
+4552,2,2,18,Rural,Fully-Furnished,Yes,725228.0
+2574,2,2,7,Suburbs,Semi-Furnished,Yes,665406.0
+1145,3,2,7,City Center,Fully-Furnished,Yes,739278.0
+4763,4,2,41,Suburbs,Unfurnished,No,1079443.0
+1109,1,2,25,City Center,Unfurnished,Yes,400395.0
+954,4,1,47,Downtown,Fully-Furnished,No,468350.0
+3453,4,2,25,Rural,Fully-Furnished,Yes,627763.0
+2208,1,1,22,Rural,Unfurnished,Yes,321843.0
+3972,3,2,42,Suburbs,Semi-Furnished,Yes,886856.0
+3469,4,3,12,Rural,Unfurnished,No,627147.0
+3528,2,2,27,Suburbs,Unfurnished,Yes,774444.0
+3181,1,3,8,Suburbs,Fully-Furnished,No,773812.0
+4129,5,2,19,City Center,Fully-Furnished,Yes,1702681.0
+4725,3,2,18,Suburbs,Unfurnished,Yes,1069481.0
+3567,1,2,47,City Center,Semi-Furnished,No,1036249.0
+1886,5,3,38,Rural,Unfurnished,Yes,462120.0
+4276,5,3,11,Suburbs,Unfurnished,Yes,1194648.0
+3366,4,2,14,Suburbs,Semi-Furnished,Yes,912511.0
+3863,4,1,30,Downtown,Unfurnished,Yes,1153098.0
+4624,4,2,13,Suburbs,Unfurnished,No,1111935.0
+648,1,3,10,Suburbs,Fully-Furnished,No,250852.0
+4350,1,2,25,Downtown,Semi-Furnished,Yes,1081953.0
+2558,3,3,41,Downtown,Fully-Furnished,Yes,889198.0
+1636,4,3,26,Rural,Fully-Furnished,No,447045.0
+686,5,3,10,Suburbs,Semi-Furnished,Yes,516580.0
+3354,2,2,37,Rural,Semi-Furnished,No,495687.0
+1750,3,3,33,Rural,Unfurnished,Yes,374265.0
+1833,1,3,42,Downtown,Fully-Furnished,No,545732.0
+4693,3,2,18,City Center,Semi-Furnished,No,1614886.0
+4650,3,3,5,Rural,Fully-Furnished,No,803851.0
+3211,3,2,45,City Center,Fully-Furnished,No,1132267.0
+2285,3,3,37,Suburbs,Semi-Furnished,Yes,635284.0
+1250,2,1,48,Downtown,Unfurnished,Yes,368101.0
+2262,4,1,41,Suburbs,Fully-Furnished,No,644023.0
+4420,5,3,27,Suburbs,Semi-Furnished,No,1131171.0
+4960,3,1,0,Downtown,Unfurnished,No,1390418.0
+981,3,2,34,Suburbs,Fully-Furnished,No,373960.0
+653,3,1,39,Downtown,Semi-Furnished,Yes,315634.0
+2024,4,3,7,City Center,Fully-Furnished,No,1080242.0
+2620,1,3,46,Suburbs,Semi-Furnished,No,550097.0
+2843,1,2,6,Downtown,Semi-Furnished,No,814165.0
+1740,2,3,10,Rural,Fully-Furnished,No,386621.0
+560,1,2,38,Suburbs,Fully-Furnished,No,184296.0
+1438,3,1,3,City Center,Semi-Furnished,No,711395.0
+2139,3,1,24,Downtown,Unfurnished,No,700225.0
+4620,3,2,11,Suburbs,Fully-Furnished,Yes,1065141.0
+4726,2,2,25,Suburbs,Semi-Furnished,No,996506.0
+4069,3,3,37,Suburbs,Semi-Furnished,No,982520.0
+1752,1,1,45,City Center,Unfurnished,No,465385.0
+4703,4,2,11,Downtown,Unfurnished,Yes,1455512.0
+671,4,1,42,Rural,Unfurnished,Yes,171635.0
+1958,5,2,36,Rural,Fully-Furnished,Yes,465515.0
+4049,1,1,45,Rural,Semi-Furnished,No,508161.0
+4697,3,3,23,Downtown,Semi-Furnished,No,1398838.0
+2822,4,1,15,Rural,Semi-Furnished,No,495815.0
+2136,1,1,12,City Center,Unfurnished,Yes,684765.0
+3615,4,1,24,Downtown,Semi-Furnished,No,1114404.0
+4590,3,1,3,Suburbs,Fully-Furnished,Yes,1070950.0
+3504,4,1,10,City Center,Unfurnished,Yes,1349514.0
+829,5,3,31,Suburbs,Unfurnished,Yes,444306.0
+4140,5,2,48,Rural,Unfurnished,Yes,692845.0
+4394,4,1,6,City Center,Unfurnished,Yes,1573878.0
+4607,1,3,45,Downtown,Fully-Furnished,No,1152623.0
+1841,1,1,10,City Center,Semi-Furnished,No,638108.0
+4163,1,1,27,Suburbs,Fully-Furnished,Yes,854485.0
+715,4,2,40,Downtown,Semi-Furnished,No,450715.0
+838,1,1,22,City Center,Fully-Furnished,No,360441.0
+4562,3,3,44,City Center,Unfurnished,Yes,1486336.0
+3208,5,3,22,City Center,Unfurnished,Yes,1418048.0
+3652,3,2,49,City Center,Fully-Furnished,No,1221837.0
+2250,1,1,27,Downtown,Fully-Furnished,No,613611.0
+2921,3,3,42,Suburbs,Semi-Furnished,No,746721.0
+1209,1,1,46,City Center,Fully-Furnished,No,369297.0
+4226,4,1,25,Downtown,Fully-Furnished,Yes,1318758.0
+4142,3,1,24,Suburbs,Semi-Furnished,No,946487.0
+4493,4,2,28,City Center,Semi-Furnished,Yes,1612162.0
+988,4,1,18,Suburbs,Semi-Furnished,Yes,445615.0
+546,2,3,32,Suburbs,Fully-Furnished,No,311499.0
+3859,1,1,35,Downtown,Semi-Furnished,No,905998.0
+900,5,3,13,Suburbs,Unfurnished,No,552903.0
+4490,1,1,13,Downtown,Unfurnished,Yes,1061644.0
+3657,5,3,34,City Center,Unfurnished,Yes,1529606.0
+4845,1,3,29,Suburbs,Fully-Furnished,Yes,1036721.0
+890,4,1,27,Suburbs,Unfurnished,Yes,353951.0
+4353,3,1,16,Rural,Fully-Furnished,No,672484.0
+4930,3,3,2,City Center,Fully-Furnished,Yes,1778313.0
+1128,2,2,15,City Center,Unfurnished,Yes,531755.0
+4732,5,1,45,Rural,Semi-Furnished,No,736995.0
+3430,5,2,29,Rural,Fully-Furnished,Yes,708494.0
+2021,5,1,28,Downtown,Unfurnished,Yes,813938.0
+1326,4,1,44,Downtown,Fully-Furnished,No,566007.0
+2000,5,1,14,Suburbs,Semi-Furnished,Yes,674698.0
+3794,3,1,45,Suburbs,Semi-Furnished,Yes,809430.0
+2919,4,2,24,Suburbs,Unfurnished,Yes,779881.0
+1434,1,1,37,Suburbs,Fully-Furnished,Yes,316197.0
+3542,5,3,41,Downtown,Fully-Furnished,No,1226919.0
+4997,5,3,46,City Center,Fully-Furnished,Yes,1855070.0
+1966,1,2,37,Suburbs,Fully-Furnished,No,440298.0
+4061,5,1,22,City Center,Unfurnished,Yes,1522844.0
+1114,1,3,24,Suburbs,Semi-Furnished,No,333621.0
+1682,4,2,41,Rural,Unfurnished,No,337952.0
+3723,3,1,6,Suburbs,Fully-Furnished,No,889829.0
+3167,1,3,21,Suburbs,Fully-Furnished,Yes,753348.0
+630,2,3,16,Suburbs,Semi-Furnished,Yes,335665.0
+3483,1,2,17,Downtown,Fully-Furnished,Yes,931082.0
+4778,5,1,48,Rural,Unfurnished,No,708734.0
+4959,4,1,40,Suburbs,Unfurnished,Yes,1099561.0
+538,4,3,9,Suburbs,Semi-Furnished,Yes,435511.0
+4459,1,3,9,City Center,Unfurnished,Yes,1413686.0
+4087,3,3,6,Rural,Unfurnished,Yes,681342.0
+1420,2,1,47,Suburbs,Unfurnished,No,311259.0
+3269,4,2,49,City Center,Unfurnished,No,1210437.0
+4611,5,2,37,City Center,Fully-Furnished,Yes,1747949.0
+992,5,1,26,Downtown,Unfurnished,Yes,601897.0
+1631,3,2,32,City Center,Semi-Furnished,Yes,745104.0
+4021,4,3,0,Suburbs,Semi-Furnished,No,1078078.0
+810,1,2,43,Downtown,Unfurnished,Yes,246284.0
+1238,5,2,33,Downtown,Semi-Furnished,No,662838.0
+3741,3,2,3,Suburbs,Unfurnished,No,925721.0
+1045,4,3,16,Rural,Semi-Furnished,Yes,347879.0
+2961,4,1,3,City Center,Semi-Furnished,Yes,1246999.0
+4846,4,3,42,Downtown,Unfurnished,Yes,1411940.0
+2304,4,1,25,Rural,Unfurnished,No,425105.0
+3712,4,1,3,Suburbs,Fully-Furnished,No,985259.0
+4310,5,1,0,City Center,Unfurnished,Yes,1677156.0
+1313,3,2,6,City Center,Unfurnished,No,720604.0
+4624,4,2,29,Downtown,Fully-Furnished,Yes,1400278.0
+2532,2,1,49,City Center,Unfurnished,Yes,724466.0
+4913,2,1,8,City Center,Unfurnished,No,1494231.0
+744,3,2,34,City Center,Fully-Furnished,No,510168.0
+771,1,3,7,City Center,Unfurnished,No,426026.0
+4011,1,1,23,Suburbs,Unfurnished,No,728198.0
+2271,1,3,18,Rural,Fully-Furnished,Yes,422851.0
+1762,2,2,35,Suburbs,Fully-Furnished,Yes,488283.0
+2924,1,1,49,Suburbs,Semi-Furnished,Yes,529728.0
+4861,5,3,42,Downtown,Unfurnished,No,1482661.0
+1420,4,3,26,City Center,Semi-Furnished,Yes,873102.0
+3930,2,3,31,Suburbs,Semi-Furnished,No,906692.0
+4935,3,2,13,City Center,Fully-Furnished,No,1716525.0
+4984,3,2,17,Suburbs,Unfurnished,No,1106626.0
+3124,4,3,27,Suburbs,Unfurnished,Yes,863675.0
+4260,2,3,28,Downtown,Fully-Furnished,No,1215680.0
+2550,1,2,15,Rural,Semi-Furnished,No,384634.0
+4000,1,3,34,Rural,Fully-Furnished,No,591091.0
+1665,5,3,46,Suburbs,Unfurnished,No,565827.0
+875,5,2,30,Downtown,Fully-Furnished,No,623502.0
+2533,1,3,3,City Center,Unfurnished,No,934646.0
+645,3,3,36,City Center,Semi-Furnished,No,486753.0
+4888,3,3,16,Suburbs,Unfurnished,No,1127531.0
+931,5,2,38,Rural,Semi-Furnished,No,296690.0
+1204,4,3,47,Downtown,Semi-Furnished,No,559894.0
+3132,1,2,45,Rural,Unfurnished,No,396056.0
+4994,5,2,25,City Center,Unfurnished,No,1801789.0
+1463,5,1,47,Rural,Semi-Furnished,Yes,323823.0
+2734,1,1,38,City Center,Fully-Furnished,Yes,788144.0
+2541,1,3,40,Downtown,Unfurnished,No,642397.0
+2328,3,2,3,Downtown,Semi-Furnished,No,865292.0
+2608,4,1,29,Suburbs,Semi-Furnished,No,699422.0
+4568,4,3,29,Suburbs,Fully-Furnished,Yes,1148208.0
+1438,1,1,21,Rural,Unfurnished,Yes,206205.0
+1306,2,1,10,Downtown,Semi-Furnished,Yes,520092.0
+1963,5,2,1,Downtown,Fully-Furnished,No,972397.0
+3915,5,2,43,Suburbs,Semi-Furnished,No,971139.0
+510,1,1,11,City Center,Unfurnished,No,265371.0
+2368,2,1,29,Rural,Fully-Furnished,No,390147.0
+1384,3,2,35,Rural,Semi-Furnished,Yes,329072.0
+4064,1,3,17,Suburbs,Fully-Furnished,No,905454.0
+1889,1,2,25,Downtown,Unfurnished,Yes,553742.0
+3901,5,1,6,Suburbs,Fully-Furnished,Yes,1065588.0
+4821,1,3,0,Suburbs,Unfurnished,No,1030671.0
+1324,1,1,25,Suburbs,Semi-Furnished,Yes,333649.0
+2765,1,3,22,Suburbs,Unfurnished,Yes,580048.0
+1436,5,1,25,City Center,Semi-Furnished,Yes,835799.0
+3300,3,3,44,City Center,Semi-Furnished,Yes,1191729.0
+3053,3,3,5,Downtown,Unfurnished,No,1045618.0
+4345,1,1,5,Suburbs,Semi-Furnished,No,907498.0
+2296,5,3,43,City Center,Fully-Furnished,Yes,1156726.0
+553,3,2,7,Downtown,Semi-Furnished,No,443245.0
+1226,3,1,23,Suburbs,Unfurnished,Yes,397291.0
+3236,3,2,21,Rural,Fully-Furnished,No,565866.0
+3670,5,1,18,City Center,Fully-Furnished,No,1484299.0
+2413,5,3,36,Downtown,Semi-Furnished,No,994118.0
+2096,1,3,17,Rural,Semi-Furnished,No,339710.0
+2414,4,3,30,Suburbs,Unfurnished,No,702478.0
+2966,3,1,36,Suburbs,Fully-Furnished,Yes,726970.0
+3237,4,2,29,Suburbs,Unfurnished,No,845079.0
+1349,5,2,41,City Center,Semi-Furnished,Yes,814096.0
+2609,5,1,32,Downtown,Fully-Furnished,Yes,995695.0
+502,5,1,9,Rural,Unfurnished,No,290522.0
+4755,4,2,36,Downtown,Unfurnished,Yes,1378716.0
+4569,5,2,11,City Center,Unfurnished,No,1730750.0
+1392,1,2,29,Downtown,Unfurnished,Yes,439422.0
+2530,5,2,26,City Center,Unfurnished,Yes,1190748.0
+3660,2,1,38,Suburbs,Fully-Furnished,No,774871.0
+2876,4,1,8,Rural,Unfurnished,No,488685.0
+2433,2,3,20,Suburbs,Fully-Furnished,No,636730.0
+1880,5,2,11,Downtown,Unfurnished,No,860086.0
+4181,1,3,28,Suburbs,Semi-Furnished,Yes,874345.0
+1790,3,1,32,Rural,Semi-Furnished,No,293256.0
+2140,5,1,42,Suburbs,Unfurnished,Yes,603813.0
+3182,1,3,14,Rural,Semi-Furnished,Yes,497040.0
+1487,4,2,1,Rural,Fully-Furnished,Yes,453739.0
+1718,2,2,38,Suburbs,Unfurnished,Yes,453154.0
+1855,2,2,43,City Center,Fully-Furnished,Yes,708734.0
+4765,2,2,17,Downtown,Unfurnished,Yes,1268497.0
+4635,4,3,2,City Center,Semi-Furnished,No,1793849.0
+2060,1,3,6,City Center,Fully-Furnished,Yes,857411.0
+1918,4,1,42,Suburbs,Semi-Furnished,Yes,570231.0
+1454,2,2,17,Downtown,Semi-Furnished,Yes,550351.0
+1483,5,2,43,Downtown,Unfurnished,No,690399.0
+1474,3,2,37,City Center,Fully-Furnished,No,709269.0
+4633,4,3,36,Suburbs,Semi-Furnished,Yes,1132194.0
+4472,4,2,32,Downtown,Unfurnished,No,1297816.0
+1413,1,3,43,City Center,Unfurnished,Yes,512105.0
+536,1,2,30,Downtown,Unfurnished,No,181331.0
+3887,4,2,10,Suburbs,Semi-Furnished,Yes,992528.0
+2211,2,1,3,Suburbs,Unfurnished,No,516534.0
+3520,3,2,17,Suburbs,Fully-Furnished,No,878873.0
+1295,1,2,3,Downtown,Fully-Furnished,No,510568.0
+4536,2,1,48,Rural,Semi-Furnished,Yes,598064.0
+3611,5,3,33,Downtown,Fully-Furnished,Yes,1292565.0
+1824,1,3,28,Rural,Unfurnished,Yes,291174.0
+817,2,2,23,Suburbs,Semi-Furnished,No,294113.0
+2896,2,3,21,City Center,Unfurnished,No,1027811.0
+2662,3,2,1,Rural,Semi-Furnished,Yes,519002.0
+3245,3,1,43,Suburbs,Semi-Furnished,No,713397.0
+2091,5,1,5,Suburbs,Unfurnished,Yes,723633.0
+3611,2,2,41,Rural,Fully-Furnished,Yes,566474.0
+4430,2,1,24,City Center,Fully-Furnished,Yes,1404757.0
+2496,3,1,20,Suburbs,Semi-Furnished,Yes,622158.0
+1812,1,2,15,Rural,Unfurnished,No,302852.0
+1785,1,2,30,City Center,Unfurnished,No,570249.0
+4811,4,1,13,City Center,Semi-Furnished,No,1687763.0
+2883,3,3,38,Suburbs,Fully-Furnished,Yes,812750.0
+3739,4,3,27,Downtown,Unfurnished,No,1213439.0
+2639,3,2,31,Downtown,Fully-Furnished,Yes,889704.0
+2204,5,2,27,Suburbs,Fully-Furnished,Yes,768874.0
+862,2,3,48,City Center,Semi-Furnished,Yes,436707.0
+3104,5,1,8,Suburbs,Semi-Furnished,Yes,915322.0
+2216,3,3,44,Rural,Fully-Furnished,Yes,460658.0
+4951,2,3,21,Downtown,Unfurnished,Yes,1385203.0
+4786,1,3,31,Rural,Unfurnished,No,686185.0
+4238,1,3,4,Suburbs,Semi-Furnished,No,947045.0
+2969,4,2,22,Suburbs,Fully-Furnished,No,800554.0
+1056,3,2,4,City Center,Unfurnished,No,629685.0
+1325,3,1,41,City Center,Unfurnished,Yes,585380.0
+3308,1,1,31,City Center,Semi-Furnished,Yes,974933.0
+3219,5,1,9,Rural,Fully-Furnished,No,654401.0
+4008,2,1,38,City Center,Unfurnished,No,1176023.0
+4241,5,3,14,Suburbs,Semi-Furnished,No,1134000.0
+2074,5,2,6,City Center,Unfurnished,No,1129936.0
+4498,1,2,28,Downtown,Unfurnished,No,1076586.0
+2629,1,1,46,City Center,Unfurnished,No,702816.0
+2903,1,1,2,Rural,Semi-Furnished,No,403146.0
+3829,4,3,18,Downtown,Fully-Furnished,No,1288218.0
+1088,5,3,9,Downtown,Semi-Furnished,Yes,782659.0
+2512,3,1,27,Downtown,Fully-Furnished,Yes,814206.0
+2047,2,2,28,Rural,Unfurnished,Yes,336471.0
+794,4,2,14,Suburbs,Fully-Furnished,Yes,486533.0
+2485,3,2,34,City Center,Unfurnished,No,899830.0
+3617,5,1,5,Downtown,Unfurnished,Yes,1203342.0
+2190,1,2,11,Downtown,Semi-Furnished,No,659035.0
+1636,5,3,46,Downtown,Unfurnished,Yes,746656.0
+2564,2,3,37,Suburbs,Semi-Furnished,No,634850.0
+4955,4,1,12,Suburbs,Fully-Furnished,No,1211464.0
+1507,4,3,28,Rural,Fully-Furnished,Yes,457013.0
+3014,2,1,18,Suburbs,Unfurnished,Yes,637900.0
+4026,3,2,2,City Center,Semi-Furnished,No,1463863.0
+1747,3,2,7,Rural,Unfurnished,No,377192.0
+4402,4,2,7,Rural,Semi-Furnished,No,756100.0
+1935,4,3,19,City Center,Semi-Furnished,Yes,1056039.0
+1071,1,1,46,City Center,Semi-Furnished,Yes,284418.0
+2882,3,2,3,City Center,Fully-Furnished,No,1218703.0
+1745,2,1,20,Rural,Semi-Furnished,Yes,323845.0
+2584,3,2,2,Rural,Fully-Furnished,No,492075.0
+777,1,3,44,Rural,Semi-Furnished,Yes,158884.0
+2387,4,3,7,City Center,Fully-Furnished,Yes,1211541.0
+1765,4,1,22,City Center,Fully-Furnished,Yes,842263.0
+1540,1,3,15,Downtown,Fully-Furnished,Yes,535022.0
+1417,2,3,12,Suburbs,Unfurnished,Yes,434035.0
+1385,4,1,2,Downtown,Semi-Furnished,No,675808.0
+3252,5,2,47,City Center,Unfurnished,No,1257147.0
+521,4,3,8,Rural,Semi-Furnished,Yes,304321.0
+3691,5,1,13,City Center,Semi-Furnished,No,1462058.0
+2853,1,3,12,Suburbs,Unfurnished,No,624258.0
+1186,1,3,6,Downtown,Fully-Furnished,Yes,514722.0
+784,4,3,14,Downtown,Semi-Furnished,No,552992.0
+4247,3,3,6,Rural,Fully-Furnished,Yes,780793.0
+1262,5,1,37,Downtown,Unfurnished,No,626797.0
+2928,2,1,33,Downtown,Fully-Furnished,No,758279.0
+3007,4,1,40,City Center,Semi-Furnished,No,1092507.0
+528,2,3,21,Downtown,Semi-Furnished,No,352720.0
+1406,4,3,23,Downtown,Semi-Furnished,No,698860.0
+3604,3,3,48,Downtown,Unfurnished,No,1046931.0
+4499,3,1,36,Rural,Semi-Furnished,No,636956.0
+3494,3,3,43,Rural,Unfurnished,Yes,555715.0
+3006,3,2,0,City Center,Fully-Furnished,Yes,1314201.0
+4109,1,3,9,Downtown,Semi-Furnished,Yes,1140299.0
+4053,1,2,42,Rural,Semi-Furnished,Yes,577485.0
+1953,5,3,15,Rural,Semi-Furnished,No,512400.0
+3856,2,1,45,City Center,Fully-Furnished,No,1152046.0
+1015,4,3,7,Suburbs,Semi-Furnished,No,519485.0
+538,4,2,48,Downtown,Unfurnished,Yes,381905.0
+3842,1,2,24,Rural,Fully-Furnished,Yes,553111.0
+1386,4,3,49,City Center,Fully-Furnished,Yes,767543.0
+3344,1,2,11,City Center,Fully-Furnished,No,1102819.0
+2704,5,2,24,City Center,Fully-Furnished,Yes,1272547.0
+1598,2,1,16,Rural,Fully-Furnished,No,356680.0
+2323,5,3,25,Downtown,Unfurnished,Yes,962976.0
+3701,3,3,45,Suburbs,Fully-Furnished,No,905410.0
+3655,3,3,47,Downtown,Semi-Furnished,Yes,1043817.0
+3593,3,2,13,City Center,Fully-Furnished,No,1372516.0
+4030,5,3,40,City Center,Fully-Furnished,Yes,1586666.0
+4278,4,3,35,Suburbs,Fully-Furnished,Yes,1115008.0
+3396,2,1,22,Downtown,Fully-Furnished,No,941482.0
+3953,3,1,42,City Center,Fully-Furnished,No,1287697.0
+4011,3,1,5,City Center,Unfurnished,Yes,1397965.0
+1488,3,2,46,Downtown,Unfurnished,No,485775.0
+4616,2,3,4,City Center,Fully-Furnished,Yes,1613955.0
+4526,3,1,42,Downtown,Unfurnished,No,1179080.0
+4679,2,1,24,City Center,Semi-Furnished,Yes,1446169.0
+2182,3,1,17,Downtown,Fully-Furnished,No,753799.0
+4463,5,3,12,Suburbs,Semi-Furnished,Yes,1226408.0
+1433,5,3,42,City Center,Semi-Furnished,Yes,884736.0
+4098,2,3,13,Suburbs,Fully-Furnished,Yes,983581.0
+3733,5,2,27,City Center,Semi-Furnished,No,1537930.0
+2480,2,2,17,City Center,Semi-Furnished,Yes,946215.0
+2355,5,1,27,Rural,Semi-Furnished,No,485941.0
+3556,5,3,26,Downtown,Fully-Furnished,No,1271828.0
+1292,2,1,31,Suburbs,Fully-Furnished,No,383215.0
+1291,4,3,46,Suburbs,Semi-Furnished,Yes,489229.0
+2309,5,3,8,Suburbs,Fully-Furnished,No,836985.0
+2755,3,3,39,Downtown,Fully-Furnished,No,946742.0
+4110,4,2,31,Rural,Semi-Furnished,No,672214.0
+2107,2,2,19,Suburbs,Fully-Furnished,Yes,575393.0
+1484,4,3,27,Downtown,Unfurnished,No,688014.0
+4176,1,1,32,City Center,Fully-Furnished,No,1223324.0
+3880,1,3,3,Suburbs,Unfurnished,No,871625.0
+1019,5,3,45,Suburbs,Semi-Furnished,No,522905.0
+1090,5,1,33,Rural,Fully-Furnished,Yes,342009.0
+1550,3,3,47,Suburbs,Semi-Furnished,Yes,508183.0
+4133,4,1,2,Suburbs,Semi-Furnished,No,1031559.0
+4944,1,2,25,City Center,Semi-Furnished,No,1464662.0
+1459,5,2,7,Downtown,Semi-Furnished,No,816465.0
+1192,4,1,5,Downtown,Semi-Furnished,No,632255.0
+4399,5,2,15,Rural,Fully-Furnished,Yes,823901.0
+4973,5,2,23,City Center,Unfurnished,Yes,1793230.0
+3446,1,1,47,Downtown,Fully-Furnished,Yes,818440.0
+1026,1,2,38,City Center,Fully-Furnished,Yes,387526.0
+3724,5,3,29,Downtown,Fully-Furnished,No,1325121.0
+2753,2,3,44,City Center,Fully-Furnished,No,996729.0
+3844,5,1,12,Rural,Unfurnished,Yes,675039.0
+4465,5,2,4,Suburbs,Fully-Furnished,Yes,1217759.0
+2375,3,3,24,Rural,Semi-Furnished,No,489726.0
+2263,3,3,19,Downtown,Fully-Furnished,No,850112.0
+1020,3,2,17,Rural,Fully-Furnished,No,289309.0
+1516,2,2,46,Suburbs,Unfurnished,No,337827.0
+616,2,3,17,Rural,Unfurnished,No,187620.0
+2933,5,3,1,Downtown,Semi-Furnished,Yes,1184698.0
+1083,3,1,9,Downtown,Fully-Furnished,Yes,568583.0
+894,2,1,44,Rural,Fully-Furnished,No,146922.0
+4288,1,3,49,Suburbs,Fully-Furnished,No,854589.0
+3268,5,1,46,Rural,Semi-Furnished,Yes,576610.0
+4667,4,3,11,Suburbs,Unfurnished,No,1165865.0
+4360,5,3,46,City Center,Semi-Furnished,Yes,1692437.0
+773,4,1,12,Suburbs,Fully-Furnished,Yes,482245.0
+2513,3,1,49,City Center,Unfurnished,Yes,809095.0
+4933,4,2,46,Rural,Unfurnished,Yes,703199.0
+1889,3,2,10,Suburbs,Semi-Furnished,No,588519.0
+4066,1,2,18,City Center,Unfurnished,No,1217556.0
+665,4,3,34,City Center,Unfurnished,Yes,570309.0
+2067,5,1,38,City Center,Fully-Furnished,No,975612.0
+1228,3,3,25,Downtown,Fully-Furnished,No,615914.0
+2543,5,1,45,Rural,Unfurnished,No,440381.0
+4697,2,3,13,City Center,Unfurnished,No,1550908.0
+3996,3,2,44,Suburbs,Semi-Furnished,Yes,885439.0
+1278,4,2,43,City Center,Semi-Furnished,No,670030.0
+713,3,2,23,Downtown,Unfurnished,Yes,432254.0
+4262,5,3,40,Rural,Fully-Furnished,Yes,762882.0
+2076,1,1,0,Downtown,Unfurnished,No,574286.0
+2948,3,1,42,Downtown,Unfurnished,Yes,814314.0
+3436,4,2,21,Downtown,Fully-Furnished,No,1149965.0
+3617,2,2,22,Suburbs,Fully-Furnished,No,845780.0
+1091,1,2,18,Rural,Semi-Furnished,Yes,265965.0
+3220,2,2,17,Rural,Semi-Furnished,No,518643.0
+1213,3,1,11,Suburbs,Semi-Furnished,Yes,454859.0
+1435,5,3,27,Rural,Semi-Furnished,Yes,430668.0
+4837,5,3,27,Downtown,Fully-Furnished,No,1547728.0
+501,4,3,32,Rural,Unfurnished,No,230356.0
+3348,5,3,18,Suburbs,Semi-Furnished,No,973233.0
+4544,1,2,27,Downtown,Semi-Furnished,Yes,1149245.0
+2449,5,2,48,Suburbs,Fully-Furnished,No,714594.0
+1417,4,2,36,City Center,Fully-Furnished,Yes,797841.0
+3674,3,3,25,Downtown,Unfurnished,Yes,1124305.0
+2741,3,2,34,Downtown,Unfurnished,No,844392.0
+589,5,2,33,Rural,Fully-Furnished,No,301402.0
+2209,2,1,34,Downtown,Semi-Furnished,No,591998.0
+2669,3,1,39,Suburbs,Semi-Furnished,Yes,629687.0
+4738,5,2,15,Rural,Semi-Furnished,No,803947.0
+3541,4,1,37,City Center,Unfurnished,Yes,1267997.0
+605,5,1,12,Suburbs,Semi-Furnished,No,452036.0
+1386,3,2,22,City Center,Semi-Furnished,No,731120.0
+927,4,2,21,City Center,Fully-Furnished,Yes,697780.0
+2395,5,2,15,City Center,Semi-Furnished,Yes,1118699.0
+816,1,2,27,Downtown,Fully-Furnished,No,309412.0
+1134,4,3,47,Suburbs,Semi-Furnished,No,463933.0
+2425,1,3,34,Suburbs,Unfurnished,No,537191.0
+2556,2,2,44,Downtown,Semi-Furnished,No,709172.0
+3644,4,1,45,Rural,Semi-Furnished,No,559354.0
+2770,1,2,7,City Center,Fully-Furnished,Yes,1019983.0
+1939,3,2,43,Suburbs,Fully-Furnished,Yes,542145.0
+1052,3,1,21,Downtown,Fully-Furnished,Yes,503207.0
+1215,2,3,20,City Center,Semi-Furnished,Yes,611452.0
+4411,4,2,25,Rural,Semi-Furnished,No,717712.0
+2213,4,2,39,Rural,Unfurnished,Yes,457940.0
+3889,4,3,20,City Center,Semi-Furnished,Yes,1532211.0
+1607,2,3,24,Rural,Unfurnished,Yes,318744.0
+4706,4,1,40,Suburbs,Fully-Furnished,No,1043161.0
+750,3,3,0,Suburbs,Fully-Furnished,Yes,482260.0
+2930,1,3,5,Suburbs,Fully-Furnished,No,756410.0
+2554,3,3,22,Rural,Unfurnished,Yes,473275.0
+958,3,1,22,Suburbs,Semi-Furnished,No,349284.0
+707,1,3,42,Downtown,Fully-Furnished,Yes,330189.0
+1399,3,3,42,Suburbs,Semi-Furnished,No,452749.0
+3961,2,1,22,Suburbs,Semi-Furnished,Yes,877021.0
+3885,1,3,31,Rural,Fully-Furnished,No,552907.0
+521,3,3,29,Suburbs,Unfurnished,No,325737.0
+909,5,1,12,City Center,Semi-Furnished,Yes,774157.0
+1394,3,2,42,Downtown,Fully-Furnished,No,572807.0
+1014,2,1,17,Rural,Semi-Furnished,No,181135.0
+4609,4,3,22,Downtown,Semi-Furnished,Yes,1428259.0
+2634,3,3,14,City Center,Semi-Furnished,Yes,1122941.0
+4095,4,3,32,Rural,Semi-Furnished,No,712399.0
+3456,5,1,20,Rural,Semi-Furnished,Yes,615088.0
+2060,3,3,38,Suburbs,Unfurnished,Yes,562221.0
+1766,1,3,22,Downtown,Unfurnished,Yes,524247.0
+2669,4,1,26,City Center,Fully-Furnished,No,1074514.0
+4138,5,2,44,City Center,Unfurnished,No,1491828.0
+1249,1,2,43,Rural,Unfurnished,No,201038.0
+3927,1,3,17,Suburbs,Unfurnished,No,821112.0
+2427,1,1,23,Rural,Semi-Furnished,No,352259.0
+4304,1,3,46,Rural,Semi-Furnished,No,575239.0
+4202,3,1,39,Rural,Fully-Furnished,No,635919.0
+2856,3,1,41,Rural,Fully-Furnished,Yes,474291.0
+2835,3,2,6,City Center,Fully-Furnished,No,1187250.0
+806,5,2,49,City Center,Semi-Furnished,No,622307.0
+4165,5,1,47,Rural,Unfurnished,Yes,665535.0
+2489,5,3,19,Rural,Unfurnished,Yes,543412.0
+1161,2,2,26,Suburbs,Semi-Furnished,Yes,364984.0
+811,5,3,5,Rural,Fully-Furnished,No,423098.0
+3420,3,2,26,City Center,Fully-Furnished,Yes,1277401.0
+1582,3,2,8,Downtown,Fully-Furnished,No,699419.0
+3471,2,3,44,City Center,Semi-Furnished,No,1125689.0
+1254,2,2,30,Suburbs,Fully-Furnished,No,434602.0
+4630,5,2,20,City Center,Fully-Furnished,Yes,1791506.0
+852,4,3,25,Downtown,Semi-Furnished,Yes,586095.0
+1402,2,2,39,Rural,Unfurnished,No,230099.0
+4388,1,2,47,Downtown,Semi-Furnished,No,1070394.0
+658,3,2,44,Rural,Semi-Furnished,No,190744.0
+2477,1,3,12,Rural,Semi-Furnished,Yes,417393.0
+1456,3,1,48,City Center,Semi-Furnished,No,566686.0
+2571,3,3,22,City Center,Unfurnished,Yes,1048099.0
+903,2,1,19,City Center,Fully-Furnished,No,461642.0
+3279,2,2,36,Suburbs,Semi-Furnished,Yes,778252.0
+1887,1,1,27,City Center,Unfurnished,No,562284.0
+3953,3,3,16,Suburbs,Fully-Furnished,Yes,1031405.0
+1455,1,3,27,City Center,Fully-Furnished,Yes,598292.0
+2212,4,2,40,Rural,Fully-Furnished,Yes,508624.0
+1773,1,1,1,Suburbs,Semi-Furnished,Yes,486521.0
+4311,5,2,24,Downtown,Semi-Furnished,Yes,1415029.0
+3125,1,2,49,Suburbs,Fully-Furnished,Yes,654977.0
+2882,5,3,40,Suburbs,Fully-Furnished,No,876065.0
+1941,5,1,5,Downtown,Fully-Furnished,No,899552.0
+3479,5,1,10,Suburbs,Fully-Furnished,No,971517.0

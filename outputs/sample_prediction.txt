@@ -1,0 +1,11 @@
+Input Property Details:
+Area_sqft                2500
+Bedrooms                    3
+Bathrooms                   2
+Age_Years                   5
+Location              Suburbs
+Furnishing     Semi-Furnished
+Parking                   Yes
+Total_Rooms                 5
+
+Predicted Price: $663,273.96

@@ -1,0 +1,12 @@
+Model Evaluation Results
+========================
+
+--- Linear Regression ---
+MAE: 55314.05
+RMSE: 73822.63
+R2 Score: 0.9535
+
+--- Random Forest ---
+MAE: 34365.61
+RMSE: 43824.37
+R2 Score: 0.9836
